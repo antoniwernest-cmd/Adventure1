@@ -1,0 +1,1913 @@
+{
+  "status": "passed",
+  "date": "2026-10-19",
+  "questions": 240,
+  "activities": 4,
+  "versions": [
+    "A",
+    "AA"
+  ],
+  "newIllustrations": 34,
+  "runtime": {
+    "status": "passed",
+    "questions": 240,
+    "wrongAndCorrectChecks": 480,
+    "alternateParagraphOrders": 30,
+    "checks": [
+      "All 240 tasks reject an incorrect answer and accept the correct answer",
+      "All 30 AA paragraphs accept both orders of their independent supporting details",
+      "Repeated correct submissions award no extra points",
+      "Reset question preserves earned credit",
+      "School-supply profiles stay separate",
+      "Saved state restores both profiles",
+      "Actual landing-page Excel exporter runs against all 20 profiles",
+      "All production scripts parse"
+    ],
+    "largest": {
+      "pronoun": {
+        "id": "pronoun-AA-01",
+        "level": "AA",
+        "position": 1,
+        "size": 243
+      },
+      "homophone": {
+        "id": "homophone-AA-27",
+        "level": "AA",
+        "position": 27,
+        "size": 164
+      },
+      "paragraph": {
+        "id": "paragraph-AA-29",
+        "level": "AA",
+        "position": 29,
+        "size": 288
+      },
+      "meaning": {
+        "id": "meaning-AA-10",
+        "level": "AA",
+        "position": 10,
+        "size": 262
+      }
+    }
+  },
+  "browser": {
+    "status": "passed",
+    "layoutChecks": [
+      {
+        "game": "paragraph-complete",
+        "fonts": [
+          {
+            "size": "21.0752px",
+            "type": "sentence-slot filled active"
+          },
+          {
+            "size": "21.0752px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "21.0752px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "21.0752px",
+            "type": "sentence-slot filled"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1366,
+          768
+        ]
+      },
+      {
+        "game": "paragraph-complete",
+        "fonts": [
+          {
+            "size": "21px",
+            "type": "sentence-slot filled active"
+          },
+          {
+            "size": "21px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "21px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "21px",
+            "type": "sentence-slot filled"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "game": "paragraph-complete",
+        "fonts": [
+          {
+            "size": "22px",
+            "type": "sentence-slot filled active"
+          },
+          {
+            "size": "22px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "22px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "22px",
+            "type": "sentence-slot filled"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1024,
+          768
+        ]
+      },
+      {
+        "game": "paragraph-complete",
+        "fonts": [
+          {
+            "size": "22px",
+            "type": "sentence-slot filled active"
+          },
+          {
+            "size": "22px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "22px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "22px",
+            "type": "sentence-slot filled"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          768,
+          1024
+        ]
+      },
+      {
+        "game": "paragraph-complete",
+        "fonts": [
+          {
+            "size": "19px",
+            "type": "sentence-slot filled active"
+          },
+          {
+            "size": "19px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "19px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "19px",
+            "type": "sentence-slot filled"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      {
+        "game": "paragraph-complete",
+        "fonts": [
+          {
+            "size": "14px",
+            "type": "sentence-slot filled active"
+          },
+          {
+            "size": "14px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "14px",
+            "type": "sentence-slot filled"
+          },
+          {
+            "size": "14px",
+            "type": "sentence-slot filled"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "game": "paragraph-bank",
+        "fonts": [
+          {
+            "size": "21.0752px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "21.0752px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "21.0752px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "21.0752px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "21.0752px",
+            "type": "bank-sentence"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1366,
+          768
+        ]
+      },
+      {
+        "game": "paragraph-bank",
+        "fonts": [
+          {
+            "size": "21px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "21px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "21px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "21px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "21px",
+            "type": "bank-sentence"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "game": "paragraph-bank",
+        "fonts": [
+          {
+            "size": "22px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "22px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "22px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "22px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "22px",
+            "type": "bank-sentence"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1024,
+          768
+        ]
+      },
+      {
+        "game": "paragraph-bank",
+        "fonts": [
+          {
+            "size": "22px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "22px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "22px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "22px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "22px",
+            "type": "bank-sentence"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          768,
+          1024
+        ]
+      },
+      {
+        "game": "paragraph-bank",
+        "fonts": [
+          {
+            "size": "19px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "19px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "19px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "19px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "19px",
+            "type": "bank-sentence"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      {
+        "game": "paragraph-bank",
+        "fonts": [
+          {
+            "size": "14px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "14px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "14px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "14px",
+            "type": "bank-sentence"
+          },
+          {
+            "size": "14px",
+            "type": "bank-sentence"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "game": "pronoun-AA-correct",
+        "fonts": [
+          {
+            "size": "26.6213px",
+            "type": "passage"
+          },
+          {
+            "size": "23.8482px",
+            "type": "answer"
+          },
+          {
+            "size": "23.8482px",
+            "type": "answer"
+          },
+          {
+            "size": "23.8482px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1366,
+          768
+        ]
+      },
+      {
+        "game": "pronoun-AA-correct",
+        "fonts": [
+          {
+            "size": "25px",
+            "type": "passage"
+          },
+          {
+            "size": "22px",
+            "type": "answer"
+          },
+          {
+            "size": "22px",
+            "type": "answer"
+          },
+          {
+            "size": "22px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "game": "pronoun-AA-correct",
+        "fonts": [
+          {
+            "size": "28px",
+            "type": "passage"
+          },
+          {
+            "size": "23px",
+            "type": "answer"
+          },
+          {
+            "size": "23px",
+            "type": "answer"
+          },
+          {
+            "size": "23px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1024,
+          768
+        ]
+      },
+      {
+        "game": "pronoun-AA-correct",
+        "fonts": [
+          {
+            "size": "28px",
+            "type": "passage"
+          },
+          {
+            "size": "23px",
+            "type": "answer"
+          },
+          {
+            "size": "23px",
+            "type": "answer"
+          },
+          {
+            "size": "23px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          768,
+          1024
+        ]
+      },
+      {
+        "game": "pronoun-AA-correct",
+        "fonts": [
+          {
+            "size": "24px",
+            "type": "passage"
+          },
+          {
+            "size": "21px",
+            "type": "answer"
+          },
+          {
+            "size": "21px",
+            "type": "answer"
+          },
+          {
+            "size": "21px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      {
+        "game": "homophone-AA-correct",
+        "fonts": [
+          {
+            "size": "26.6213px",
+            "type": "passage"
+          },
+          {
+            "size": "23.8482px",
+            "type": "answer correct"
+          },
+          {
+            "size": "23.8482px",
+            "type": "answer"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1366,
+          768
+        ]
+      },
+      {
+        "game": "homophone-AA-correct",
+        "fonts": [
+          {
+            "size": "25px",
+            "type": "passage"
+          },
+          {
+            "size": "22px",
+            "type": "answer correct"
+          },
+          {
+            "size": "22px",
+            "type": "answer"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "game": "homophone-AA-correct",
+        "fonts": [
+          {
+            "size": "28px",
+            "type": "passage"
+          },
+          {
+            "size": "23px",
+            "type": "answer correct"
+          },
+          {
+            "size": "23px",
+            "type": "answer"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1024,
+          768
+        ]
+      },
+      {
+        "game": "homophone-AA-correct",
+        "fonts": [
+          {
+            "size": "28px",
+            "type": "passage"
+          },
+          {
+            "size": "23px",
+            "type": "answer correct"
+          },
+          {
+            "size": "23px",
+            "type": "answer"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          768,
+          1024
+        ]
+      },
+      {
+        "game": "homophone-AA-correct",
+        "fonts": [
+          {
+            "size": "24px",
+            "type": "passage"
+          },
+          {
+            "size": "21px",
+            "type": "answer correct"
+          },
+          {
+            "size": "21px",
+            "type": "answer"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      {
+        "game": "homophone-AA-correct",
+        "fonts": [
+          {
+            "size": "19px",
+            "type": "passage"
+          },
+          {
+            "size": "16px",
+            "type": "answer correct"
+          },
+          {
+            "size": "16px",
+            "type": "answer"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "game": "meaning-AA-correct",
+        "fonts": [
+          {
+            "size": "26.6213px",
+            "type": "passage"
+          },
+          {
+            "size": "23.8482px",
+            "type": "answer"
+          },
+          {
+            "size": "23.8482px",
+            "type": "answer"
+          },
+          {
+            "size": "23.8482px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1366,
+          768
+        ]
+      },
+      {
+        "game": "meaning-AA-correct",
+        "fonts": [
+          {
+            "size": "25px",
+            "type": "passage"
+          },
+          {
+            "size": "22px",
+            "type": "answer"
+          },
+          {
+            "size": "22px",
+            "type": "answer"
+          },
+          {
+            "size": "22px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "game": "meaning-AA-correct",
+        "fonts": [
+          {
+            "size": "28px",
+            "type": "passage"
+          },
+          {
+            "size": "23px",
+            "type": "answer"
+          },
+          {
+            "size": "23px",
+            "type": "answer"
+          },
+          {
+            "size": "23px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1024,
+          768
+        ]
+      },
+      {
+        "game": "meaning-AA-correct",
+        "fonts": [
+          {
+            "size": "28px",
+            "type": "passage"
+          },
+          {
+            "size": "23px",
+            "type": "answer"
+          },
+          {
+            "size": "23px",
+            "type": "answer"
+          },
+          {
+            "size": "23px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          768,
+          1024
+        ]
+      },
+      {
+        "game": "meaning-AA-correct",
+        "fonts": [
+          {
+            "size": "24px",
+            "type": "passage"
+          },
+          {
+            "size": "21px",
+            "type": "answer"
+          },
+          {
+            "size": "21px",
+            "type": "answer"
+          },
+          {
+            "size": "21px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      {
+        "game": "pronoun-AA-correct",
+        "fonts": [
+          {
+            "size": "19px",
+            "type": "passage"
+          },
+          {
+            "size": "16px",
+            "type": "answer"
+          },
+          {
+            "size": "16px",
+            "type": "answer"
+          },
+          {
+            "size": "16px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "game": "meaning-AA-correct",
+        "fonts": [
+          {
+            "size": "19px",
+            "type": "passage"
+          },
+          {
+            "size": "16px",
+            "type": "answer"
+          },
+          {
+            "size": "16px",
+            "type": "answer"
+          },
+          {
+            "size": "16px",
+            "type": "answer correct"
+          }
+        ],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "game": "landing",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1366,
+          768
+        ],
+        "cardClipping": []
+      },
+      {
+        "game": "landing",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1280,
+          720
+        ],
+        "cardClipping": []
+      },
+      {
+        "game": "landing",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1024,
+          768
+        ],
+        "cardClipping": []
+      },
+      {
+        "game": "landing",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          768,
+          1024
+        ],
+        "cardClipping": []
+      },
+      {
+        "game": "landing",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          390,
+          844
+        ],
+        "cardClipping": []
+      },
+      {
+        "game": "landing",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          844,
+          390
+        ],
+        "cardClipping": []
+      },
+      {
+        "game": "gallery",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1366,
+          768
+        ]
+      },
+      {
+        "game": "gallery",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "game": "gallery",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          1024,
+          768
+        ]
+      },
+      {
+        "game": "gallery",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          768,
+          1024
+        ]
+      },
+      {
+        "game": "gallery",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      {
+        "game": "gallery",
+        "fonts": [],
+        "outside": [],
+        "panels": [],
+        "viewport": [
+          844,
+          390
+        ]
+      }
+    ],
+    "pictures": [
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/rain-cover.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/classroom-writing.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/trail-map.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/kite-field.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/park-picnic.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/sailing-ropes.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/garden-helpers.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/baking-together.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/science-tray.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/snow-ready.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/sandcastle-team.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/station-visit.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/dog-water.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/football-team.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/library-friends.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/measuring-board.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/night-camp.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/skateboard-turn.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/model-bridge.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/bicycle-practice.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/life-jacket-check.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/rock-pools.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/robot-partners.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/paper-gliders.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/museum-fossil.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/space-club.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/jeep-trail.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/shallow-dive.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/snowman.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/leaf-study.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/basketball-pass.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/pony-care.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/wet-towel.webp",
+        "width": 1536
+      },
+      {
+        "complete": true,
+        "height": 1024,
+        "src": "assets/illustrations/glider-box.webp",
+        "width": 1536
+      }
+    ],
+    "manualChecks": [
+      "Wrong then correct responses in all four activities",
+      "Three-sentence and four-sentence paragraph completion",
+      "School-supply progress isolation and restoration",
+      "Incorrect teacher code rejected; 259 unlocks disable and enable",
+      "Voice disabled across all four activities and restored",
+      "Hints open and close",
+      "Landing gallery link, previous/next, activity filter and all 34 selections",
+      "Picture/work switch and enlarged picture on tablet",
+      "Enlarged picture on laptop"
+    ]
+  },
+  "deployment": {
+    "type": "static folder",
+    "entry": "index.html",
+    "buildRequired": false,
+    "zipCreated": false,
+    "localReferencesChecked": 71,
+    "allTaskImagesUseNewArtwork": true
+  },
+  "limits": [
+    "Native speech uses the browser/device speech service; actual audible output was not assessed."
+  ],
+  "paragraphRevision": {
+    "version": 2,
+    "tasksUpdated": 60,
+    "topicCount": 30,
+    "focusAndExclusionReasons": "PARAGRAPH-CONTENT.json",
+    "differentSparesForAandAA": true,
+    "browser": {
+      "status": "passed",
+      "cases": [
+        {
+          "case": "A-longest-bank",
+          "fonts": [
+            {
+              "size": "21.0752px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21.0752px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21.0752px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21.0752px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1366,
+            768
+          ]
+        },
+        {
+          "case": "A-longest-bank",
+          "fonts": [
+            {
+              "size": "21px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1280,
+            720
+          ]
+        },
+        {
+          "case": "A-longest-bank",
+          "fonts": [
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1024,
+            768
+          ]
+        },
+        {
+          "case": "A-longest-bank",
+          "fonts": [
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            768,
+            1024
+          ]
+        },
+        {
+          "case": "A-longest-bank",
+          "fonts": [
+            {
+              "size": "19px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "19px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "19px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "19px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            390,
+            844
+          ]
+        },
+        {
+          "case": "A-longest-bank",
+          "fonts": [
+            {
+              "size": "14px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "14px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "14px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "14px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            844,
+            390
+          ]
+        },
+        {
+          "case": "AA-longest-bank",
+          "fonts": [
+            {
+              "size": "21.0752px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21.0752px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21.0752px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21.0752px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21.0752px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1366,
+            768
+          ]
+        },
+        {
+          "case": "AA-longest-bank",
+          "fonts": [
+            {
+              "size": "21px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "21px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1280,
+            720
+          ]
+        },
+        {
+          "case": "AA-longest-bank",
+          "fonts": [
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1024,
+            768
+          ]
+        },
+        {
+          "case": "AA-longest-bank",
+          "fonts": [
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "22px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            768,
+            1024
+          ]
+        },
+        {
+          "case": "AA-longest-bank",
+          "fonts": [
+            {
+              "size": "19px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "19px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "19px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "19px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "19px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            390,
+            844
+          ]
+        },
+        {
+          "case": "AA-longest-bank",
+          "fonts": [
+            {
+              "size": "14px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "14px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "14px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "14px",
+              "type": "bank-sentence"
+            },
+            {
+              "size": "14px",
+              "type": "bank-sentence"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            844,
+            390
+          ]
+        },
+        {
+          "case": "AA-longest-retry",
+          "fonts": [
+            {
+              "size": "21.0752px",
+              "type": "sentence-slot filled active"
+            },
+            {
+              "size": "21.0752px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "21.0752px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "21.0752px",
+              "type": "sentence-slot filled"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1366,
+            768
+          ]
+        },
+        {
+          "case": "AA-longest-retry",
+          "fonts": [
+            {
+              "size": "21px",
+              "type": "sentence-slot filled active"
+            },
+            {
+              "size": "21px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "21px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "21px",
+              "type": "sentence-slot filled"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1280,
+            720
+          ]
+        },
+        {
+          "case": "AA-longest-retry",
+          "fonts": [
+            {
+              "size": "22px",
+              "type": "sentence-slot filled active"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1024,
+            768
+          ]
+        },
+        {
+          "case": "AA-longest-retry",
+          "fonts": [
+            {
+              "size": "22px",
+              "type": "sentence-slot filled active"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            768,
+            1024
+          ]
+        },
+        {
+          "case": "AA-longest-retry",
+          "fonts": [
+            {
+              "size": "19px",
+              "type": "sentence-slot filled active"
+            },
+            {
+              "size": "19px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "19px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "19px",
+              "type": "sentence-slot filled"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            390,
+            844
+          ]
+        },
+        {
+          "case": "AA-longest-retry",
+          "fonts": [
+            {
+              "size": "14px",
+              "type": "sentence-slot filled active"
+            },
+            {
+              "size": "14px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "14px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "14px",
+              "type": "sentence-slot filled"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            844,
+            390
+          ]
+        },
+        {
+          "case": "AA-longest-correct",
+          "fonts": [
+            {
+              "size": "21.0752px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "21.0752px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "21.0752px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "21.0752px",
+              "type": "sentence-slot filled active"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1366,
+            768
+          ]
+        },
+        {
+          "case": "AA-longest-correct",
+          "fonts": [
+            {
+              "size": "21px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "21px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "21px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "21px",
+              "type": "sentence-slot filled active"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1280,
+            720
+          ]
+        },
+        {
+          "case": "AA-longest-correct",
+          "fonts": [
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled active"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            1024,
+            768
+          ]
+        },
+        {
+          "case": "AA-longest-correct",
+          "fonts": [
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "22px",
+              "type": "sentence-slot filled active"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            768,
+            1024
+          ]
+        },
+        {
+          "case": "AA-longest-correct",
+          "fonts": [
+            {
+              "size": "19px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "19px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "19px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "19px",
+              "type": "sentence-slot filled active"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            390,
+            844
+          ]
+        },
+        {
+          "case": "AA-longest-correct",
+          "fonts": [
+            {
+              "size": "14px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "14px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "14px",
+              "type": "sentence-slot filled"
+            },
+            {
+              "size": "14px",
+              "type": "sentence-slot filled active"
+            }
+          ],
+          "outside": [],
+          "panels": [],
+          "viewport": [
+            844,
+            390
+          ]
+        }
+      ],
+      "manualChecks": [
+        "Revised sailing distractor is rejected",
+        "Equipment-check paragraph is accepted",
+        "AA accepts either order of the two supporting details",
+        "Long A and AA sentence banks fit six screen sizes",
+        "AA retry and completed paragraphs fit six screen sizes"
+      ]
+    }
+  }
+}

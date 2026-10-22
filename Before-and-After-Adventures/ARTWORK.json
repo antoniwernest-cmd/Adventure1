@@ -1,0 +1,508 @@
+{
+  "mode": "Built-in image generation tool",
+  "pictureCount": 50,
+  "levelReuse": "The same 50 pictures support Level A and Level AA.",
+  "scriptReuse": "Adapted from Language Adventures.",
+  "pictures": [
+    {
+      "id": "01-seed",
+      "title": "A little seed",
+      "file": "assets/illustrations/01-seed.webp",
+      "alt": "She covered the seed with soil.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl presses loose soil over a freshly planted seed in a terracotta pot. A little patch of seed is visible beneath the soil near her fingers. A full small watering can waits beside the pot; no sprout. Sunny garden table. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the girl a Black child with a rich dark-brown complexion and two natural afro puffs; warm brown eyes. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "733c3013d29d7fd73463d2270558000a66e692212f4b19b26234ab0ce80d40bb",
+      "bytes": 270400
+    },
+    {
+      "id": "02-sandcastle",
+      "title": "By the sea",
+      "file": "assets/illustrations/02-sandcastle.webp",
+      "alt": "He lifted the bucket off the sand.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A boy lifts an upside-down sand bucket straight up, revealing one fresh intact sand tower underneath. The rest of the castle has two low towers. A second empty bucket and small flag lie nearby. Child wears sunhat, calm beach. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the boy a South Asian child with medium-brown skin and thick wavy black hair under his sunhat. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "413e873e7cdc787dc5e62dbea05b3dd5c46e74034aa159e7d8976dfe6905b070",
+      "bytes": 257982
+    },
+    {
+      "id": "03-biscuits",
+      "title": "In the kitchen",
+      "file": "assets/illustrations/03-biscuits.webp",
+      "alt": "They pressed a star cutter into the dough.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl uses a star cutter to cut raw biscuit dough on a floured kitchen table with her grandmother. Several raw stars sit beside the dough, a bare baking tray waits close by, no baked biscuits. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the girl and grandmother a Japanese family with light golden skin and straight black hair (the grandmother has grey hair). Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "da9dcc160994ac1102a4a4868f68c20aaa4c4c8db5f17dbe079a7fc745be0b5d",
+      "bytes": 253276
+    },
+    {
+      "id": "04-kite",
+      "title": "A windy afternoon",
+      "file": "assets/illustrations/04-kite.webp",
+      "alt": "The kite lifted out of her hands.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A boy holds a kite reel on a grassy field as his colourful kite has just caught the breeze slightly above his head; taut short string. His sister has just let go of the kite, open hands visible. Adults in distance, no other kites. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "6df7ee431f1c51fa89c1b9afca5bb100b55b70976206a75f771928617d5164ee",
+      "bytes": 231390
+    },
+    {
+      "id": "05-birdfeeder",
+      "title": "A garden visitor",
+      "file": "assets/illustrations/05-birdfeeder.webp",
+      "alt": "The child poured seed into the feeder.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child tips birdseed from a small scoop into an open-topped wooden bird feeder on a low garden table. Lid removed beside it. A sturdy hanging hook above on a low branch, one small bird watching at a distance. No seed spilled. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the girl an Arab child with an olive-brown complexion wearing a simple lilac hijab, clearly still a child doing ordinary gardening. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "67585d9c97642a024b555a8c9a1c8b555f03ec6ae8a9d3d60ece4bfe88797e9f",
+      "bytes": 248806
+    },
+    {
+      "id": "06-juice",
+      "title": "A little spill",
+      "file": "assets/illustrations/06-juice.webp",
+      "alt": "The juice spread across the table.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl has accidentally tipped a small cup of orange juice onto a table. Cup lies on its side, puddle spreading. She is reaching for a dry folded cloth immediately beside her, with a surprised expression. Only one cup, no glass shards. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the girl a Black child with deep-brown skin, short coily hair in a neat natural bob, and a teal top instead of purple. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "9ce05313770cefff24e26f2a151dd05a05dc5f6bb7b67487c1b7e67a6c140293",
+      "bytes": 170778
+    },
+    {
+      "id": "07-present",
+      "title": "A special surprise",
+      "file": "assets/illustrations/07-present.webp",
+      "alt": "He lifted the lid from the box.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A boy is lifting the lid from a gift box; a small unwrapped toy train is now visible inside. A just-removed ribbon rests on the table. Mother smiles nearby. Lid still in hands, toy still in box, no text or wrapping patterns with letters. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "45939f1df8e31598f0f617e061ae26247bad8ea41115a9fe89e290b3cee5f89d",
+      "bytes": 181972
+    },
+    {
+      "id": "08-bicycle",
+      "title": "Ready to ride",
+      "file": "assets/illustrations/08-bicycle.webp",
+      "alt": "She pumped air into the soft tyre.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl wearing a properly fastened bicycle helmet squeezes a hand pump connected to a visibly soft bicycle tyre. Bicycle supported on its kickstand, dust cap beside pump, parent kneeling nearby. No riding. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the girl and father a South Asian family with warm medium-brown skin and black hair; keep the bicycle helmet properly fastened. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "0d05695337e913a0e6b9cad3855b07da861f97db7d37bd56aa4c312607509c4b",
+      "bytes": 229824
+    },
+    {
+      "id": "09-library",
+      "title": "At the library",
+      "file": "assets/illustrations/09-library.webp",
+      "alt": "The librarian scanned his chosen book.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A boy stands at a school library counter sliding one closed picture book toward a librarian holding a scanner above its barcode. Open book bag on counter, other borrowed books already inside. No readable words. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the boy a Black child with dark-brown skin and short natural tightly curled hair. Make the librarian a Black woman with dark-brown skin. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "a2ca97a0b93bcf54feb55ca4c5f05a1a1c817c03437b44f8ea4b2127c7f1aeb7",
+      "bytes": 200874
+    },
+    {
+      "id": "10-puzzle",
+      "title": "Piece by piece",
+      "file": "assets/illustrations/10-puzzle.webp",
+      "alt": "She lowered the last piece into its gap.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl leans over an almost-complete jigsaw puzzle, lowering the final blue-sky piece into its matching empty space. The piece is clearly loose above the single gap. Box with a simple landscape picture beside it, no letters. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the girl a Chinese child with light golden skin, straight black hair in a bob and a yellow cardigan. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "43906120cf6fea92b6b7ff898fb96a209fe3955eaaff5748502680c53d9390e1",
+      "bytes": 303862
+    },
+    {
+      "id": "11-snowman",
+      "title": "A snowy friend",
+      "file": "assets/illustrations/11-snowman.webp",
+      "alt": "They lifted the head onto the snowman.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: Two warmly dressed children in boots and mittens lift a small snowball onto a snowman body made of a large and medium ball. Carrot, two dark pebbles and a scarf on the snow nearby. The new head is still blank and no snowball throwing. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make both children a contemporary Indigenous North American family with copper-brown skin and straight black hair, ordinary colourful winter coats, no ceremonial dress. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "251d96e50ae64db0a359309c77c21ce15aa9690e6386527c9daa8ebc41db9cad",
+      "bytes": 217036
+    },
+    {
+      "id": "12-mail",
+      "title": "A letter for a friend",
+      "file": "assets/illustrations/12-mail.webp",
+      "alt": "She slipped the letter into the envelope.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl pushes a folded handwritten letter into an open plain envelope at a table. A postage stamp and damp sponge sit nearby, flap open and no stamp attached. No readable writing. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "14a4db9d56421e1a9e5b826636eff27d5d29bcf3b00fd71ad1ca647ae2e029d0",
+      "bytes": 188012
+    },
+    {
+      "id": "13-shoes",
+      "title": "Getting ready",
+      "file": "assets/illustrations/13-shoes.webp",
+      "alt": "He made a loop with one lace.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A boy sits on an entrance bench making the first loop of a shoelace on a shoe already on his foot. The laces have their first crossed knot, second lace loose. His backpack waits at the door. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Edit this family storybook illustration. Make the boy a Latino child with a warm medium-brown complexion, dark-brown curly hair and a green hoodie. Keep the same cheerful 3D animation look, setting, objects and pictured action.",
+      "sha256": "d35433ce5daf6b952a7b66503ec7f08374d75f221822b1b5da11479a757f2de8",
+      "bytes": 219820
+    },
+    {
+      "id": "14-paint",
+      "title": "A colourful idea",
+      "file": "assets/illustrations/14-paint.webp",
+      "alt": "She mixed the colours into green paint.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl at an art table mixes distinct blue and yellow paint puddles together with a brush, a new green streak in the middle. White paper showing an unpainted leaf outline beside the palette, rinse cup waiting. Art apron, clear colour clues. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the girl a Korean child with light warm skin and straight black hair in a single ponytail; change the shirt under her apron to blue. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "160b3ef1849b6b20879b1da3712aa8344b9b8982672f3a15e54cff83b5252b93",
+      "bytes": 186032
+    },
+    {
+      "id": "15-laundry",
+      "title": "Laundry day",
+      "file": "assets/illustrations/15-laundry.webp",
+      "alt": "They took the damp clothes out.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child stands beside an adult and an open front-loading washing machine, transferring a clean damp T-shirt into an empty laundry basket. Several damp clothes still in washer, drying rack visible with no clothes. No detergent handling. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the child and mother a Black family with rich dark-brown skin and natural coily hair, the child with two little buns. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "ffb208bad7b8c0a80da5e499092032e7cf843e85e39a13772e97d4913c4554af",
+      "bytes": 187960
+    },
+    {
+      "id": "16-lunch",
+      "title": "Packing lunch",
+      "file": "assets/illustrations/16-lunch.webp",
+      "alt": "He put the second slice on top.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A boy fits the second slice of bread on top of a cheese sandwich on a clean chopping board. Bottom bread already has cheese. Open empty lunchbox and reusable container wait beside it; no knives in hand. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Edit this cheerful family storybook illustration. Make the boy Latino, with warm medium-brown skin, dark curly hair and a green shirt. Keep the pictured action and props exactly the same, with the same warm 3D animated style, setting and composition.",
+      "sha256": "bac6465cca26daa6f081d23e9aae77684ee10814e906d6de3b1a46ccc543f5ce",
+      "bytes": 172320
+    },
+    {
+      "id": "17-plant",
+      "title": "Room to grow",
+      "file": "assets/illustrations/17-plant.webp",
+      "alt": "She lowered the root ball into the large pot.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl gently lowers a small seedling with its intact exposed soil root ball into a larger pot. Empty small nursery pot beside it, new larger pot has a little soil at bottom and space around root ball, watering can waits. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the girl an Arab child with light olive-brown skin and thick black curls, a coral top, no head covering. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "61a107304095c0e56d4d880e006ded19a968a8c7d9a35e6700fa1e2d6f10ec06",
+      "bytes": 286662
+    },
+    {
+      "id": "18-popcorn",
+      "title": "Movie snack",
+      "file": "assets/illustrations/18-popcorn.webp",
+      "alt": "The heated kernels popped into the bowl.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: An adult and child watch a transparent lidded electric hot-air popcorn maker with freshly popped corn coming down its chute into a bowl. Unpopped kernels visible in a little measuring cup, seasoning shaker aside, no hand touching machine. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "dee2d02d64767e891ee5b3949ad990241d55d7954e9d42944bda3eb5d5a91ce3",
+      "bytes": 241116
+    },
+    {
+      "id": "19-camp",
+      "title": "Under the trees",
+      "file": "assets/illustrations/19-camp.webp",
+      "alt": "They clipped the tent fabric to the poles.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A parent holds a small camping tent frame steady while a child clips the last fabric hook to the already upright pole. Groundsheet under tent. Outer rain cover folded nearby and sleeping bags still rolled outside. No fire. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the child and father a Filipino family with medium-brown skin and straight black hair; father clean shaven. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "04f177ac5fd09ca7c75493813871a11e2e7e7e8bb5297a909c937dc27fb98daf",
+      "bytes": 295022
+    },
+    {
+      "id": "20-dog",
+      "title": "A muddy friend",
+      "file": "assets/illustrations/20-dog.webp",
+      "alt": "They rinsed the soap from its coat.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child with an adult gently rinses a small muddy dog with a handheld shower in a low pet washing tub. Foamy soap still on its back and muddy paw prints nearby, a clean dry towel on a stool. Dog relaxed, eyes protected, no distress. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the child and adult a Black family with deep-brown skin and short natural coily hair; keep the dog and rinsing action unchanged. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "ad847cac37c2c597ebcd5ef2a5d8b54ff239ff9b1e203a1aaac390ccf3f0ddab",
+      "bytes": 251170
+    },
+    {
+      "id": "21-boat",
+      "title": "At the lakeside",
+      "file": "assets/illustrations/21-boat.webp",
+      "alt": "The instructor loosened the mooring rope.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: Two children and an instructor all in properly fastened life jackets sit in a small rowing boat right at a calm dock. Instructor unties a clearly visible mooring rope from the dock cleat; oars rest ready in their rowlocks, boat still beside dock. Safe supervised scene. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the girl a Black child with dark-brown skin and short braids, and the boy an East Asian child with light golden skin and straight black hair. Keep the instructor unchanged and every life jacket properly fastened. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "8bdce1754e4aabcf80e23904034e31f7c32fc5cab20036ed01f8900ad500bc31",
+      "bytes": 201830
+    },
+    {
+      "id": "22-race",
+      "title": "On the track",
+      "file": "assets/illustrations/22-race.webp",
+      "alt": "The front runner broke the finish ribbon.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child runner in sports clothes stretches forward at a finish line ribbon, the ribbon just bending and breaking against their chest. Other runners still behind. A volunteer holding a medal waits safely beside finish, no text/numbers. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "eaf082b9e2551257da08c633b4e5085fb7e817b83c4d5633c3bef684bd6e8b32",
+      "bytes": 244620
+    },
+    {
+      "id": "23-leaves",
+      "title": "Autumn afternoon",
+      "file": "assets/illustrations/23-leaves.webp",
+      "alt": "She gathered the last leaves into the pile.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl draws the last loose autumn leaves toward a big pile with a child-sized rake. Empty reusable garden sack held open by her father beside the pile. Lawn just behind her is cleared, no leaf blower. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Edit this family storybook illustration. Make the girl and father a Latino family with medium-brown skin and dark curly hair; change the girl shirt to orange. Keep the same cheerful 3D animation look, setting, objects and pictured action.",
+      "sha256": "40028b2414e7e94ab305f4a04289306bb5aec8a31db683658439080fceceef85",
+      "bytes": 358786
+    },
+    {
+      "id": "24-butterfly",
+      "title": "A winged visitor",
+      "file": "assets/illustrations/24-butterfly.webp",
+      "alt": "They opened the mesh habitat in the garden.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A butterfly keeper child and adult watch a butterfly with fully opened wings on the rim of an open mesh habitat in a flower garden. An empty chrysalis hangs inside. Habitat door just lifted, butterfly has not flown away yet. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "e814f719bbce600cdbf77d0df93fa323b8816f59f58433cf80d2bfce9b1b107b",
+      "bytes": 293538
+    },
+    {
+      "id": "25-robot",
+      "title": "Making a robot",
+      "file": "assets/illustrations/25-robot.webp",
+      "alt": "They connected the battery pack to the robot.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: Two children at a robotics table click a battery pack connector into a small wheeled toy robot. Wheels and frame already attached. A big plain power switch is visibly in off position, no lit lights, no text. Clear low voltage classroom kit. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the boy a Black child with dark-brown skin and short tightly curled hair; make the girl a Chinese child with light golden skin and straight black hair. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "6a28ba77c25a501771d88faea866fca91fcfc388687923ecfa8f2f6c16019ae6",
+      "bytes": 183570
+    },
+    {
+      "id": "26-puppet",
+      "title": "Behind the curtain",
+      "file": "assets/illustrations/26-puppet.webp",
+      "alt": "She performed with the puppet above the stage.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child fits a finished sock puppet onto one hand behind a low classroom puppet stage. Glued-on eyes and felt mouth are dry, stage curtain closed, audience children seated beyond it, no lettering. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the puppeteer a Black girl with deep-brown skin and natural coily hair in small twists. Keep the audience mixed and the puppet show action unchanged. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "a91724ad68da89714b901bc8c67ed35c2bceaab4acfa5d2753bc3cbc94ed84ad",
+      "bytes": 155700
+    },
+    {
+      "id": "27-watercolour",
+      "title": "Painting the sky",
+      "file": "assets/illustrations/27-watercolour.webp",
+      "alt": "He brushed blue paint onto the damp sky.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child lightly brushes blue watercolour onto a paper sky area still wet and shiny. Water brush lies beside a clean water cup; unpainted green-hill area below has no paint. Blue paint spreads softly into damp paper. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "b11be7518ba47618027f9eb4db311af6766c993252194cdf77fdba006f845c00",
+      "bytes": 189506
+    },
+    {
+      "id": "28-pizza",
+      "title": "Pizza night",
+      "file": "assets/illustrations/28-pizza.webp",
+      "alt": "They sprinkled cheese over the sauce.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl with a parent sprinkles grated cheese onto a small uncooked pizza already spread with red sauce. Sliced peppers in a bowl nearby, safe cold kitchen table, empty baking tray under pizza, no oven access by child. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "307f5fdaabb410c864235d62d2adb48844dafd746db710859f488d700540d252",
+      "bytes": 219566
+    },
+    {
+      "id": "29-bridge",
+      "title": "Across the blocks",
+      "file": "assets/illustrations/29-bridge.webp",
+      "alt": "He laid a long block across both towers.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child carefully sets a long flat wooden block across two separate short block towers to form a bridge. Small toy car waits at one end, bridge deck just lowered, no additional bridge decorations. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "96daa95c356660d1c9dea093f1db7ea651fbc38603185e0866fd945b429c575b",
+      "bytes": 176708
+    },
+    {
+      "id": "30-umbrella",
+      "title": "Rain at the door",
+      "file": "assets/illustrations/30-umbrella.webp",
+      "alt": "She opened the umbrella at the doorway.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl in rain boots stands just inside an open porch doorway opening a bright umbrella. Raindrops and wet path outside, umbrella canopy partly opening, raincoat on. A closed dry umbrella cover on the hall bench, no car or road. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "d554a029a22076898ff9fe3e1c39e82d7cf864fab4bee506af38d212f6a010d6",
+      "bytes": 266418
+    },
+    {
+      "id": "31-tooth",
+      "title": "Morning routine",
+      "file": "assets/illustrations/31-tooth.webp",
+      "alt": "He brushed his teeth with the toothpaste.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A boy brushes his teeth at a bathroom sink with a small amount of toothpaste foam on the toothbrush. Toothpaste cap replaced beside tube, rinse cup full by tap. Modest sleepwear, mirror reflects brush action accurately. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the boy a Vietnamese child with light golden-brown skin and straight black hair. Keep both the boy and his reflection identical. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "825fbc88bf14b5c4e227c1f9348cfabcd2ddfcd261236003ee5d42fa89a13f0f",
+      "bytes": 160336
+    },
+    {
+      "id": "32-aquarium",
+      "title": "Feeding time",
+      "file": "assets/illustrations/32-aquarium.webp",
+      "alt": "She dropped the flakes above the fish.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child sprinkles a small pinch of fish food into a home aquarium with adult guidance. Round food lid lies on table, flakes held above surface, fish rising toward falling flakes, small aquarium feeding hatch open. No overfeeding. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "4a8631f0d0b9ca937259c8650d440775b4d7897fd06184c1f05db4df6edc3982",
+      "bytes": 262992
+    },
+    {
+      "id": "33-apple",
+      "title": "Apple harvest",
+      "file": "assets/illustrations/33-apple.webp",
+      "alt": "He twisted the apple gently by its stem.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A boy stands safely on the ground under a low apple tree, twisting a ripe red apple still attached to its short stem. Other ripe apples in a basket at his feet, no climbing or ladder, twig clearly attached. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "1e8fd91feb498840cf406a1b7ab01072cccc1f677c55ecc00ce84efdb669483c",
+      "bytes": 320374
+    },
+    {
+      "id": "34-pottery",
+      "title": "The clay bowl",
+      "file": "assets/illustrations/34-pottery.webp",
+      "alt": "She smoothed the damp rim with a sponge.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child uses a damp sponge to smooth the rim of a newly hand-shaped unpainted clay pinch bowl at an art table. Bowl visibly moist, spare clay and a little water nearby, drying shelf has empty space. Art apron no wheel or kiln. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the girl a Black child with deep-brown skin and natural short braids. Show her seated in a manual wheelchair at the accessible-height pottery table; keep her hands smoothing the clay bowl and all materials unchanged. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "ea30643be3dadd9b813b407aeb4915a8116b6d81de1639749ed070f59edf146d",
+      "bytes": 206528
+    },
+    {
+      "id": "35-train",
+      "title": "Off on a journey",
+      "file": "assets/illustrations/35-train.webp",
+      "alt": "They stepped through the open train door.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child with an adult steps through the open door of a stationary passenger train at a platform, holding a small travel bag. Adult behind with checked ticket in hand, conductor beside door, platform safe, no readable text. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "a3aae034fcbf235c4cd2d5822c32ca7a12eee469c97653c5741a22c450097b84",
+      "bytes": 204256
+    },
+    {
+      "id": "36-ice",
+      "title": "Ice-pop time",
+      "file": "assets/illustrations/36-ice.webp",
+      "alt": "She pushed a stick into each filled mould.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl pushes wooden sticks into filled ice-pop moulds on a kitchen counter. Coloured fruit juice still liquid visible in translucent moulds, empty juice jug beside them, freezer closed in background, no frozen pops yet. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Edit this cheerful family storybook illustration. Make the girl a Pacific Islander child with warm deep-brown skin, dark brown eyes and long wavy black hair. Keep the pictured action and props exactly the same, with the same warm 3D animated style, setting and composition.",
+      "sha256": "94508cac9b3ad606866fe0a433dec7a0c4f47c243f42ef30701bfef1635ae58e",
+      "bytes": 187510
+    },
+    {
+      "id": "37-telescope",
+      "title": "Looking at the moon",
+      "file": "assets/illustrations/37-telescope.webp",
+      "alt": "The child turned the focus knob at the eyepiece.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child and parent in a garden at dusk adjust a small telescope on its stable tripod, aiming it at a visible crescent moon. Child gently turns focus knob while looking in eyepiece, lens cap rests on table. No sun visible. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the child and father a South Asian family with warm deep-brown skin and black hair; keep the child turning the telescope focus knob and the same night sky. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "63ca0a59656114a63a5c3a95f76d0e14b0dba79aaed8f1c655d2a43c6c60cc5f",
+      "bytes": 193224
+    },
+    {
+      "id": "38-paperplane",
+      "title": "Ready for take-off",
+      "file": "assets/illustrations/38-paperplane.webp",
+      "alt": "He folded the wings down along the sides.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A boy at a classroom craft table folds the final broad wing of a paper aeroplane. Other wing folded, plane still held over table, unused coloured sheets beside him, no writing, no launching yet. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "f6bf43cbdcaabc032fa2b1ab11fc1ff2b9ce3c21627121bfcc5f897abc3d1612",
+      "bytes": 173188
+    },
+    {
+      "id": "39-swing",
+      "title": "On the playground",
+      "file": "assets/illustrations/39-swing.webp",
+      "alt": "Her friend gave the swing a gentle push.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl sits on a playground swing at its lowest point, hands gripping chains. Her friend stands behind with open hands giving a small starting push. Chains nearly vertical with slight forward motion; soft ground, no standing on swing. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "21d4a50b039d7785ab0ae1dd22f5f763cc67853b677f2f615021a096134f307d",
+      "bytes": 236854
+    },
+    {
+      "id": "40-cupcake",
+      "title": "A finishing touch",
+      "file": "assets/illustrations/40-cupcake.webp",
+      "alt": "They piped icing onto a cooled cupcake.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A boy pipes a swirl of pink icing onto the top of a cooled undecorated cupcake with an adult nearby. Baking rack with cooled cupcakes, small bowl of coloured sprinkles waiting; the icing swirl is half complete and no sprinkles yet. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "81b7e2ee6bddfc7d1c81e729b17a3a4fc5307d779ad62b6ff803e9e7383f7444",
+      "bytes": 189590
+    },
+    {
+      "id": "41-photo",
+      "title": "Picture day",
+      "file": "assets/illustrations/41-photo.webp",
+      "alt": "The photographer pressed the shutter button.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child photographer holds a compact camera at eye level aimed at two classmates smiling beside a school garden. Photographer is pressing the shutter, no photo shown on back screen, no readable text. Child subjects consentingly pose, relaxed. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "9b9e1112dffa88ae76d031629b2c2168b24e043d059ea2007c036bf6168516c6",
+      "bytes": 288996
+    },
+    {
+      "id": "42-recycle",
+      "title": "A second use",
+      "file": "assets/illustrations/42-recycle.webp",
+      "alt": "She placed the clean bottle in the recycling bin.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl places a clean empty plastic bottle into a school recycling bin with a simple recycling arrows symbol only. Nearby sink with a few droplets and bottle cap beside sink, other clean bottles insidebin. Bottle uncrushed and no drinks. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "0c7beb6ee5d63a54dbed63d4039418c3fbaadfdfd992574dfde565510a3b8f44",
+      "bytes": 184322
+    },
+    {
+      "id": "43-sew",
+      "title": "Fixing a button",
+      "file": "assets/illustrations/43-sew.webp",
+      "alt": "They stitched through the button holes.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: An adult guides a child using a blunt large needle threaded through a button on a fabric craft pouch at a table. Button aligned over existing marks and thread through its holes; thread tail not tied, scissors resting closed beside them. Clearly supervised craft sewing. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "595b834d5f12964ffe01e4d3dec9f06ae204464220e4a50b8ddec5a2af82ff8b",
+      "bytes": 227352
+    },
+    {
+      "id": "44-magnet",
+      "title": "A small experiment",
+      "file": "assets/illustrations/44-magnet.webp",
+      "alt": "The clip jumped up and stuck to the magnet.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A boy holds a bar magnet just above a paper clip on a classroom table. The clip has just lifted and hangs touching the magnet; nonmagnetic wooden block and plastic bead remain on table, magnifier nearby. No letters on magnet. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": "Use case: identity-preserve. Edit this educational story illustration to vary the characters. Make the boy a Black child with dark-brown skin and close-cropped natural hair and the girl a South Asian child with medium-brown skin and wavy black hair. Preserve the same polished Pixar-like 3D family-film style, exact pictured action, chronology clues, object states, props, camera framing, setting and light. Change only the stated character appearance and clothing, apart from the one expressly requested wheelchair. Single coherent moment, no new text or panels.",
+      "sha256": "e0ba29d8019dd385e1abc93e7968f3d96831c3c64919608a9c6e0b204373e729",
+      "bytes": 158022
+    },
+    {
+      "id": "45-soup",
+      "title": "Stirring the soup",
+      "file": "assets/illustrations/45-soup.webp",
+      "alt": "The soup simmered as the adult stirred it.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: An adult stirs steaming vegetable soup in a saucepan on a stove while a child at a safe adjacent counter sets out two empty bowls and spoons. Chopped vegetables visible in soup, ladle on spoonrest, no serving yet. Stove supervised by adult only. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "7b44adb2c968d44dd14517b099868ab114cca9d788e57b3fda6ca7f2edced92f",
+      "bytes": 201778
+    },
+    {
+      "id": "46-honey",
+      "title": "At the farm",
+      "file": "assets/illustrations/46-honey.webp",
+      "alt": "The beekeeper raised a honeycomb frame.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A beekeeper adult and child visitor both in complete protective beekeeping suits with face veils closed, stand at a garden hive. Adult carefully lifts one honeycomb frame from open hive. Hive lid safely set aside, frame still above hive, no extracting equipment in scene. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "7db2c13d3c7a9d3005052c1df3fe2c4f74aa7f0676947a5ca95cdf55c472a342",
+      "bytes": 308518
+    },
+    {
+      "id": "47-map",
+      "title": "Finding the path",
+      "file": "assets/illustrations/47-map.webp",
+      "alt": "They matched the two paths to the map.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: Two children and a parent pause on a woodland path junction, holding an unfolded paper trail map with simple paths and shapes but no readable text. One child points to the fork on map while adult points matching route; backpacks on, no walking yet. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "bd4e9877d26d81150f8e3a42920f49d4cf55a59d5e0be67b66f0d451daf885d4",
+      "bytes": 332522
+    },
+    {
+      "id": "48-bench",
+      "title": "A fresh coat",
+      "file": "assets/illustrations/48-bench.webp",
+      "alt": "They painted the clean bench green.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child and adult paint the final unpainted slat of a small garden bench with green paint and broad brushes. Most bench is wet shiny green, paint tray on protective groundsheet, no one sitting, plain no signs. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "94d4b9c51b422237a4af1269acfe7d54e7f7c4670babb6c13dbefb66750adb3d",
+      "bytes": 320198
+    },
+    {
+      "id": "49-violin",
+      "title": "Before the concert",
+      "file": "assets/illustrations/49-violin.webp",
+      "alt": "She played a note while the teacher tuned it.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A child musician stands in a school music room drawing a violin bow gently across a string while an adult instructor listens and adjusts a tuning peg. Open violin case on chair, music stand with no readable notes close by. Not on stage. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "324d6cc9bbb447d8233c341f02a6f3a3ba5dc6507ccd39f056e5d83800bcb0f8",
+      "bytes": 232628
+    },
+    {
+      "id": "50-shell",
+      "title": "A beach discovery",
+      "file": "assets/illustrations/50-shell.webp",
+      "alt": "She rinsed the loose sand from the shell.",
+      "prompt": "Use case: illustration-story. Asset type: one educational story picture. Create a polished Pixar-like 3D animated family-film illustration, warm expressive faces, appealing detailed materials, soft cinematic light. Landscape 3:2 composition, a single coherent moment, large clear foreground action and props that children can study. Scene: A girl kneels on a beach rinsing sand from an empty spiral seashell with a little seawater from a reusable cup. A small clump of loose sand beside her shows where shell lay; shell has no animal. Small collection tray waits on towel. Show ONLY this middle moment. No montage, panels, before-and-after sequence, text, captions, letters, logos or watermark. Natural varied characters, school-age children, believable hands and objects. The action and object states must be visually unmistakable.",
+      "editPrompt": null,
+      "sha256": "74170d091c34b43b66ed82b3e68bf91496c00a4d04168f3d25dd851ec97fbc3f",
+      "bytes": 282700
+    }
+  ]
+}

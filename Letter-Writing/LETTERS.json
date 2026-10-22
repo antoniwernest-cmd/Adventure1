@@ -1,0 +1,2612 @@
+{
+  "A": [
+    {
+      "id": "A-001",
+      "title": "A growing surprise",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Sam",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I planted a bean in a little pot today.",
+        "I covered it with soil and gave it some water.",
+        "I hope you can see it grow when you visit."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/01-seed.webp",
+      "picture": "01-seed",
+      "alt": "She covered the seed with soil.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-002",
+      "title": "A castle by the sea",
+      "greeting": "Dear Alex,",
+      "signoff": "Your friend,",
+      "sender": "Riley",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I built a sandcastle at the beach.",
+        "Its tallest tower came out of my red bucket.",
+        "Next time, we could build one together."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/02-sandcastle.webp",
+      "picture": "02-sandcastle",
+      "alt": "He lifted the bucket off the sand.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-003",
+      "title": "Stars for you",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Jamie",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We made star-shaped biscuits this afternoon.",
+        "They smelled wonderful as they cooled on the rack.",
+        "I have saved a few for your visit."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/03-biscuits.webp",
+      "picture": "03-biscuits",
+      "alt": "They pressed a star cutter into the dough.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-004",
+      "title": "A kite in the breeze",
+      "greeting": "Dear Jamie,",
+      "signoff": "Your friend,",
+      "sender": "Alex",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "My sister helped me fly a kite today.",
+        "She held it up until the wind lifted it away.",
+        "I would love to show you how high it can go."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/04-kite.webp",
+      "picture": "04-kite",
+      "alt": "The kite lifted out of her hands.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-005",
+      "title": "Visitors in the garden",
+      "greeting": "Dear Auntie,",
+      "signoff": "Your friend,",
+      "sender": "Robin",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We filled our bird feeder with fresh seeds.",
+        "A small bird watched us from a nearby branch.",
+        "I will tell you which birds visit it tomorrow."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/05-birdfeeder.webp",
+      "picture": "05-birdfeeder",
+      "alt": "The child poured seed into the feeder.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-006",
+      "title": "Sorry about the spill",
+      "greeting": "Dear Mum,",
+      "signoff": "Your friend,",
+      "sender": "Casey",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I am sorry I spilled juice on the table.",
+        "I used a cloth to wipe it all up.",
+        "I will keep my cup farther from the edge next time."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/06-juice.webp",
+      "picture": "06-juice",
+      "alt": "The juice spread across the table.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-007",
+      "title": "Thank you for the train",
+      "greeting": "Dear Uncle,",
+      "signoff": "Your friend,",
+      "sender": "Avery",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Thank you for the toy train you sent me.",
+        "I found it inside the box under the bright ribbon.",
+        "I cannot wait to show you the track I am making."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/07-present.webp",
+      "picture": "07-present",
+      "alt": "He lifted the lid from the box.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-008",
+      "title": "Back on my bike",
+      "greeting": "Dear Dad,",
+      "signoff": "Your friend,",
+      "sender": "Taylor",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Thank you for helping me fix my bicycle tyre.",
+        "It felt firm again after we used the pump.",
+        "I am excited to ride with you this weekend."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/08-bicycle.webp",
+      "picture": "08-bicycle",
+      "alt": "She pumped air into the soft tyre.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-009",
+      "title": "A book to share",
+      "greeting": "Dear Riley,",
+      "signoff": "Your friend,",
+      "sender": "Jordan",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I found a lovely picture book at the library.",
+        "The librarian checked it out so I could bring it home.",
+        "Would you like to read it with me?"
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/09-library.webp",
+      "picture": "09-library",
+      "alt": "The librarian scanned his chosen book.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-010",
+      "title": "The missing piece",
+      "greeting": "Dear Cousin,",
+      "signoff": "Your friend,",
+      "sender": "Cameron",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I finished the big puzzle we started together.",
+        "The last blue piece fitted a gap in the sky.",
+        "I will leave it on the table for you to see."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/10-puzzle.webp",
+      "picture": "10-puzzle",
+      "alt": "She lowered the last piece into its gap.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-011",
+      "title": "Our snowy friend",
+      "greeting": "Dear Taylor,",
+      "signoff": "Your friend,",
+      "sender": "Sam",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We built a snowman in the garden today.",
+        "Its new head was ready for a carrot nose.",
+        "Come over before the sunshine melts our friend."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/11-snowman.webp",
+      "picture": "11-snowman",
+      "alt": "They lifted the head onto the snowman.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-012",
+      "title": "A letter in the post",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Riley",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I wrote a letter for my friend this morning.",
+        "I folded it and slipped it into an envelope.",
+        "I hope a letter from you will arrive soon too."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/12-mail.webp",
+      "picture": "12-mail",
+      "alt": "She slipped the letter into the envelope.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-013",
+      "title": "A bow at last",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Jamie",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I can nearly tie my own shoelaces now.",
+        "Making the first loop helped me start the bow.",
+        "I will show you how much I have practised next time."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/13-shoes.webp",
+      "picture": "13-shoes",
+      "alt": "He made a loop with one lace.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-014",
+      "title": "A new green colour",
+      "greeting": "Dear Avery,",
+      "signoff": "Your friend,",
+      "sender": "Alex",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I mixed blue and yellow paint in art today.",
+        "The two colours made green for my leaf picture.",
+        "Would you like to try a colour experiment with me?"
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/14-paint.webp",
+      "picture": "14-paint",
+      "alt": "She mixed the colours into green paint.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-015",
+      "title": "Helping at home",
+      "greeting": "Dear Nan,",
+      "signoff": "Your friend,",
+      "sender": "Robin",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I helped hang up the washing today.",
+        "The damp clothes came straight from the washing machine.",
+        "I hope they will be dry before you come for tea."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/15-laundry.webp",
+      "picture": "15-laundry",
+      "alt": "They took the damp clothes out.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-016",
+      "title": "My packed lunch",
+      "greeting": "Dear Dad,",
+      "signoff": "Your friend,",
+      "sender": "Casey",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I made my own cheese sandwich today.",
+        "I put it in my lunchbox after adding the top slice.",
+        "Tomorrow, I would like to help pack your lunch too."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/16-lunch.webp",
+      "picture": "16-lunch",
+      "alt": "He put the second slice on top.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-017",
+      "title": "A bigger home for a plant",
+      "greeting": "Dear Auntie,",
+      "signoff": "Your friend,",
+      "sender": "Avery",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our little plant needed a bigger pot.",
+        "I moved its roots gently into the new one.",
+        "I will send you a picture when it grows some new leaves."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/17-plant.webp",
+      "picture": "17-plant",
+      "alt": "She lowered the root ball into the large pot.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-018",
+      "title": "An invitation to movie night",
+      "greeting": "Dear Sam,",
+      "signoff": "Your friend,",
+      "sender": "Taylor",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We are having a little movie night on Friday.",
+        "I will help make a bowl of warm popcorn for us.",
+        "Would you like to come and choose the film?"
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/18-popcorn.webp",
+      "picture": "18-popcorn",
+      "alt": "The heated kernels popped into the bowl.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-019",
+      "title": "Our first camp",
+      "greeting": "Dear Robin,",
+      "signoff": "Your friend,",
+      "sender": "Jordan",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We put up our tent beside the lake.",
+        "Its poles held the fabric up while we added the clips.",
+        "I wish you could join our next camping trip."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/19-camp.webp",
+      "picture": "19-camp",
+      "alt": "They clipped the tent fabric to the poles.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-020",
+      "title": "A clean dog",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Cameron",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our dog came home with very muddy paws.",
+        "Dad helped me rinse the soap from its coat.",
+        "You will hardly recognise our clean, fluffy friend."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/20-dog.webp",
+      "picture": "20-dog",
+      "alt": "They rinsed the soap from its coat.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-021",
+      "title": "A little boat trip",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Sam",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We went out in a rowing boat with an instructor.",
+        "Everyone wore a life jacket before the boat left the dock.",
+        "I would love to tell you about our trip when I visit."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/21-boat.webp",
+      "picture": "21-boat",
+      "alt": "The instructor loosened the mooring rope.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-022",
+      "title": "At the finish line",
+      "greeting": "Dear Casey,",
+      "signoff": "Your friend,",
+      "sender": "Riley",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I ran in the school race today.",
+        "I kept moving until I reached the finish ribbon.",
+        "I hope we can practise running together soon."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/22-race.webp",
+      "picture": "22-race",
+      "alt": "The front runner broke the finish ribbon.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-023",
+      "title": "An autumn job",
+      "greeting": "Dear Uncle,",
+      "signoff": "Your friend,",
+      "sender": "Jamie",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We cleared the fallen leaves from our lawn.",
+        "I raked them into a pile beside the open garden sack.",
+        "The garden will look tidy when you come over."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/23-leaves.webp",
+      "picture": "23-leaves",
+      "alt": "She gathered the last leaves into the pile.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-024",
+      "title": "Goodbye, butterfly",
+      "greeting": "Dear Hana,",
+      "signoff": "Your friend,",
+      "sender": "Alex",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our butterfly was ready to leave its little habitat.",
+        "We opened the mesh door in the flower garden.",
+        "I hope you can help watch for it among the flowers."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/24-butterfly.webp",
+      "picture": "24-butterfly",
+      "alt": "They opened the mesh habitat in the garden.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-025",
+      "title": "Our robot is ready",
+      "greeting": "Dear Arjun,",
+      "signoff": "Your friend,",
+      "sender": "Robin",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We built a small wheeled robot in class.",
+        "Its battery pack gave it power to move.",
+        "I cannot wait to show you our next test."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/25-robot.webp",
+      "picture": "25-robot",
+      "alt": "They connected the battery pack to the robot.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-026",
+      "title": "A show for you",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Casey",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I made a funny puppet from a spare sock.",
+        "It appeared above our little stage during my show.",
+        "I would love to perform the story for you."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/26-puppet.webp",
+      "picture": "26-puppet",
+      "alt": "She performed with the puppet above the stage.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-027",
+      "title": "A watercolour sky",
+      "greeting": "Dear Jamie,",
+      "signoff": "Your friend,",
+      "sender": "Avery",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I painted a blue sky in our art lesson.",
+        "The damp paper helped its colour spread softly.",
+        "I hope you will paint a landscape with me soon."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/27-watercolour.webp",
+      "picture": "27-watercolour",
+      "alt": "He brushed blue paint onto the damp sky.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-028",
+      "title": "Pizza for tea",
+      "greeting": "Dear Cousin,",
+      "signoff": "Your friend,",
+      "sender": "Taylor",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We made our own pizza for tea.",
+        "I sprinkled cheese over the tomato sauce.",
+        "You could help choose the toppings when you visit."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/28-pizza.webp",
+      "picture": "28-pizza",
+      "alt": "They sprinkled cheese over the sauce.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-029",
+      "title": "A bridge for my car",
+      "greeting": "Dear Taylor,",
+      "signoff": "Your friend,",
+      "sender": "Jordan",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I built a bridge for my little toy car.",
+        "A long block joined its two towers together.",
+        "Bring your car over and we can try it too."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/29-bridge.webp",
+      "picture": "29-bridge",
+      "alt": "He laid a long block across both towers.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-030",
+      "title": "A rainy walk",
+      "greeting": "Dear Auntie,",
+      "signoff": "Your friend,",
+      "sender": "Cameron",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "The rain started just before our walk.",
+        "My umbrella kept the drops off my head.",
+        "I will bring it along when we walk together too."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/30-umbrella.webp",
+      "picture": "30-umbrella",
+      "alt": "She opened the umbrella at the doorway.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-031",
+      "title": "My morning routine",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Sam",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I am learning to get ready on my own.",
+        "Brushing my teeth is part of my morning routine.",
+        "I will tell you how my new routine is going next week."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/31-tooth.webp",
+      "picture": "31-tooth",
+      "alt": "He brushed his teeth with the toothpaste.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-032",
+      "title": "Fish at feeding time",
+      "greeting": "Dear Alex,",
+      "signoff": "Your friend,",
+      "sender": "Riley",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I helped feed our fish this morning.",
+        "They swam up towards the little flakes I dropped.",
+        "You can watch them with me when you come over."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/32-aquarium.webp",
+      "picture": "32-aquarium",
+      "alt": "She dropped the flakes above the fish.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-033",
+      "title": "Apples from the garden",
+      "greeting": "Dear Nan,",
+      "signoff": "Your friend,",
+      "sender": "Jamie",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We picked ripe apples from our low garden tree.",
+        "I twisted each one gently before putting it in the basket.",
+        "I have saved some of the best ones for you."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/33-apple.webp",
+      "picture": "33-apple",
+      "alt": "He twisted the apple gently by its stem.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-034",
+      "title": "My clay bowl",
+      "greeting": "Dear Mum,",
+      "signoff": "Your friend,",
+      "sender": "Alex",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I made a small clay bowl at school.",
+        "A damp sponge helped me smooth its uneven rim.",
+        "I will bring it home when it is ready."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/34-pottery.webp",
+      "picture": "34-pottery",
+      "alt": "She smoothed the damp rim with a sponge.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-035",
+      "title": "A railway adventure",
+      "greeting": "Dear Robin,",
+      "signoff": "Your friend,",
+      "sender": "Robin",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We travelled by train to visit my cousin.",
+        "The conductor checked our tickets before we got aboard.",
+        "I wish you could join our next railway adventure."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/35-train.webp",
+      "picture": "35-train",
+      "alt": "They stepped through the open train door.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-036",
+      "title": "Ice pops for a sunny day",
+      "greeting": "Dear Sam,",
+      "signoff": "Your friend,",
+      "sender": "Casey",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I made fruit ice pops for the warm weather.",
+        "Their wooden sticks stood in the moulds of juice.",
+        "Would you like to try one when they are frozen?"
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/36-ice.webp",
+      "picture": "36-ice",
+      "alt": "She pushed a stick into each filled mould.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-037",
+      "title": "Looking at the moon",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Avery",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Dad helped me look at the moon through a telescope.",
+        "Turning the focus knob made its shape look clearer.",
+        "I would love to look at the night sky with you too."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/37-telescope.webp",
+      "picture": "37-telescope",
+      "alt": "The child turned the focus knob at the eyepiece.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-038",
+      "title": "A paper flight",
+      "greeting": "Dear Riley,",
+      "signoff": "Your friend,",
+      "sender": "Taylor",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I made a blue paper aeroplane at school.",
+        "Its folded wings helped it glide across the room.",
+        "Let us compare our designs when we meet."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/38-paperplane.webp",
+      "picture": "38-paperplane",
+      "alt": "He folded the wings down along the sides.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-039",
+      "title": "A turn on the swing",
+      "greeting": "Dear Casey,",
+      "signoff": "Your friend,",
+      "sender": "Jordan",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I tried the playground swing this afternoon.",
+        "My friend gave me a gentle push to get it moving.",
+        "Next time, I will make sure we both have a turn."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/39-swing.webp",
+      "picture": "39-swing",
+      "alt": "Her friend gave the swing a gentle push.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-040",
+      "title": "Cupcakes to share",
+      "greeting": "Dear Avery,",
+      "signoff": "Your friend,",
+      "sender": "Cameron",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We decorated cupcakes for our little picnic.",
+        "I added pink icing and some bright sprinkles.",
+        "I hope you can come and share them with us."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/40-cupcake.webp",
+      "picture": "40-cupcake",
+      "alt": "They piped icing onto a cooled cupcake.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-041",
+      "title": "A photo of our friends",
+      "greeting": "Dear Cousin,",
+      "signoff": "Your friend,",
+      "sender": "Sam",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I took a photo of my friends by the garden.",
+        "They stood still and smiled while I pressed the button.",
+        "I would like to take a picture of us together too."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/41-photo.webp",
+      "picture": "41-photo",
+      "alt": "The photographer pressed the shutter button.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-042",
+      "title": "A tidy classroom",
+      "greeting": "Dear Dad,",
+      "signoff": "Your friend,",
+      "sender": "Riley",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our class sorted some empty bottles for recycling.",
+        "We rinsed them before putting them into the collection bin.",
+        "I would like to help sort our bottles at home too."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/42-recycle.webp",
+      "picture": "42-recycle",
+      "alt": "She placed the clean bottle in the recycling bin.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-043",
+      "title": "A button repaired",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Jamie",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Thank you for helping me fix my little pouch.",
+        "The loose button is secure after our careful stitches.",
+        "I would love to learn another sewing skill with you."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/43-sew.webp",
+      "picture": "43-sew",
+      "alt": "They stitched through the button holes.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-044",
+      "title": "A magnetic discovery",
+      "greeting": "Dear Hana,",
+      "signoff": "Your friend,",
+      "sender": "Alex",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I tried an experiment with a magnet today.",
+        "It pulled a metal paper clip up from the table.",
+        "Would you like to test some other objects with me?"
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/44-magnet.webp",
+      "picture": "44-magnet",
+      "alt": "The clip jumped up and stuck to the magnet.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-045",
+      "title": "Soup for tea",
+      "greeting": "Dear Nan,",
+      "signoff": "Your friend,",
+      "sender": "Robin",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We made a pan of vegetable soup for tea.",
+        "I set out the bowls while Mum stirred the soup.",
+        "I hope we can cook a meal for you soon."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/45-soup.webp",
+      "picture": "45-soup",
+      "alt": "The soup simmered as the adult stirred it.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-046",
+      "title": "A visit to the bees",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Casey",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We visited a beekeeper at the farm.",
+        "Our protective suits let us watch the hive closely.",
+        "I have lots of interesting things to tell you about the visit."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/46-honey.webp",
+      "picture": "46-honey",
+      "alt": "The beekeeper raised a honeycomb frame.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-047",
+      "title": "Finding our way",
+      "greeting": "Dear Uncle,",
+      "signoff": "Your friend,",
+      "sender": "Avery",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We reached a fork in the woodland path.",
+        "Our map helped us choose the branch we needed.",
+        "I would like to explore another trail with you."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/47-map.webp",
+      "picture": "47-map",
+      "alt": "They matched the two paths to the map.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-048",
+      "title": "A green garden seat",
+      "greeting": "Dear Auntie,",
+      "signoff": "Your friend,",
+      "sender": "Taylor",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We gave our old garden bench a fresh coat of paint.",
+        "Its wet green slats needed time to dry.",
+        "I hope you can sit on it with us when you visit."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/48-bench.webp",
+      "picture": "48-bench",
+      "alt": "They painted the clean bench green.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-049",
+      "title": "Practising my music",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Jordan",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I practised my violin with my teacher today.",
+        "She helped tune its strings before I played my piece.",
+        "I hope to play the tune for you soon."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/49-violin.webp",
+      "picture": "49-violin",
+      "alt": "She played a note while the teacher tuned it.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "A-050",
+      "title": "A shell on the beach",
+      "greeting": "Dear Alex,",
+      "signoff": "Your friend,",
+      "sender": "Cameron",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I found an empty shell half hidden in the sand.",
+        "A little seawater rinsed its sandy pattern clean.",
+        "I would love to look for more beach treasures with you."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/50-shell.webp",
+      "picture": "50-shell",
+      "alt": "She rinsed the loose sand from the shell.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    }
+  ],
+  "AA": [
+    {
+      "id": "AA-001",
+      "title": "A growing surprise",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Sam",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I wanted to grow something on our windowsill.",
+        "I tucked a bean into my empty pot and covered it with soil.",
+        "A little water made the dry soil turn dark.",
+        "Will you help me measure the shoot when it appears?"
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/01-seed.webp",
+      "picture": "01-seed",
+      "alt": "She covered the seed with soil.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-002",
+      "title": "A castle by the sea",
+      "greeting": "Dear Alex,",
+      "signoff": "Your friend,",
+      "sender": "Riley",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "My red bucket gave me an idea for a sandcastle.",
+        "I packed my bucket with damp sand and made a neat tower.",
+        "That tower looked even better with a tiny flag.",
+        "Bring your bucket next time and we can join our castles."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/02-sandcastle.webp",
+      "picture": "02-sandcastle",
+      "alt": "He lifted the bucket off the sand.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-003",
+      "title": "Stars for you",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Jamie",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I helped Grandma make a batch of biscuit dough.",
+        "I cut stars from the dough after Grandma rolled it flat.",
+        "Our little stars turned golden as they baked.",
+        "I will put some in a box for you once they are cool."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/03-biscuits.webp",
+      "picture": "03-biscuits",
+      "alt": "They pressed a star cutter into the dough.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-004",
+      "title": "A kite in the breeze",
+      "greeting": "Dear Jamie,",
+      "signoff": "Your friend,",
+      "sender": "Alex",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "The breeze in the park was perfect for my new kite.",
+        "My sister held it up until a puff of wind lifted it.",
+        "I let out more string as the bright shape climbed.",
+        "Come to the park soon and you can have a turn."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/04-kite.webp",
+      "picture": "04-kite",
+      "alt": "The kite lifted out of her hands.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-005",
+      "title": "Visitors in the garden",
+      "greeting": "Dear Auntie,",
+      "signoff": "Your friend,",
+      "sender": "Robin",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our garden feeder was almost out of seeds.",
+        "I lifted the lid and filled the feeder with fresh seeds.",
+        "A little bird arrived as I put the full feeder back.",
+        "I hope it brings some friends when you visit."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/05-birdfeeder.webp",
+      "picture": "05-birdfeeder",
+      "alt": "The child poured seed into the feeder.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-006",
+      "title": "Sorry about the spill",
+      "greeting": "Dear Mum,",
+      "signoff": "Your friend,",
+      "sender": "Casey",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I am writing to tell you about my cup of juice.",
+        "My elbow tipped the cup and made a sticky orange puddle.",
+        "I fetched a cloth and wiped the table until it was dry.",
+        "I will make more room for my cup from now on."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/06-juice.webp",
+      "picture": "06-juice",
+      "alt": "The juice spread across the table.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-007",
+      "title": "Thank you for the train",
+      "greeting": "Dear Uncle,",
+      "signoff": "Your friend,",
+      "sender": "Avery",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Your parcel was waiting on the table when I came home.",
+        "I loosened the ribbon and found a train inside the box.",
+        "I made a little track for it across the living-room rug.",
+        "Thank you for a present that has already started an adventure."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/07-present.webp",
+      "picture": "07-present",
+      "alt": "He lifted the lid from the box.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-008",
+      "title": "Back on my bike",
+      "greeting": "Dear Dad,",
+      "signoff": "Your friend,",
+      "sender": "Taylor",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I was disappointed when my bicycle tyre felt soft.",
+        "You showed me how to attach the pump and work its handle.",
+        "The tyre grew firm enough for a ride along the path.",
+        "Thank you for teaching me a skill I can use again."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/08-bicycle.webp",
+      "picture": "08-bicycle",
+      "alt": "She pumped air into the soft tyre.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-009",
+      "title": "A book to share",
+      "greeting": "Dear Riley,",
+      "signoff": "Your friend,",
+      "sender": "Jordan",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "A colourful cover caught my eye on the library shelf.",
+        "I took the book to the counter so the librarian could scan it.",
+        "At home, I found a funny story inside the bright cover.",
+        "I think you would enjoy it, so let us read it together."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/09-library.webp",
+      "picture": "09-library",
+      "alt": "The librarian scanned his chosen book.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-010",
+      "title": "The missing piece",
+      "greeting": "Dear Cousin,",
+      "signoff": "Your friend,",
+      "sender": "Cameron",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our mountain puzzle had just one empty space left.",
+        "I found a blue piece in the box and turned it to fit the gap.",
+        "Pressing it flat finally joined the whole picture together.",
+        "You helped build most of it, so I saved a photo for you."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/10-puzzle.webp",
+      "picture": "10-puzzle",
+      "alt": "She lowered the last piece into its gap.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-011",
+      "title": "Our snowy friend",
+      "greeting": "Dear Taylor,",
+      "signoff": "Your friend,",
+      "sender": "Sam",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Fresh snow gave us enough to build a garden snowman.",
+        "We stacked two big snowballs and added a smaller head.",
+        "The blank head soon had pebble eyes and a carrot nose.",
+        "I hope you can meet our snowy friend before it melts."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/11-snowman.webp",
+      "picture": "11-snowman",
+      "alt": "They lifted the head onto the snowman.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-012",
+      "title": "A letter in the post",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Riley",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "My friend moved away, so I wanted to send some news.",
+        "I wrote about our class and folded the pages into an envelope.",
+        "Once it was sealed, I added a stamp and posted it.",
+        "Perhaps a reply will be waiting in our letter box soon."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/12-mail.webp",
+      "picture": "12-mail",
+      "alt": "She slipped the letter into the envelope.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-013",
+      "title": "A bow at last",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Jamie",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I wanted to tie my shoes without asking for help.",
+        "I crossed the laces, made a loop and wrapped the other lace.",
+        "Two careful pulls turned the loose laces into a bow.",
+        "I still need practice, but I am proud of my first one."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/13-shoes.webp",
+      "picture": "13-shoes",
+      "alt": "He made a loop with one lace.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-014",
+      "title": "A new green colour",
+      "greeting": "Dear Avery,",
+      "signoff": "Your friend,",
+      "sender": "Alex",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "My leaf outline needed green paint, but the green pot was empty.",
+        "I mixed blue and yellow to make a bright green puddle.",
+        "It was just the shade I needed to finish the leaf.",
+        "I wonder what other colours we could discover together."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/14-paint.webp",
+      "picture": "14-paint",
+      "alt": "She mixed the colours into green paint.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-015",
+      "title": "Helping at home",
+      "greeting": "Dear Nan,",
+      "signoff": "Your friend,",
+      "sender": "Robin",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Mum asked if I could help when the wash cycle finished.",
+        "I took a basket to the machine and filled it with damp clothes.",
+        "We spread each one on the rack so the air could reach it.",
+        "I will help fold them when they are dry this afternoon."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/15-laundry.webp",
+      "picture": "15-laundry",
+      "alt": "They took the damp clothes out.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-016",
+      "title": "My packed lunch",
+      "greeting": "Dear Dad,",
+      "signoff": "Your friend,",
+      "sender": "Casey",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I decided to prepare a cheese sandwich for my lunch.",
+        "I covered a slice of bread with cheese and added another slice.",
+        "The finished sandwich fitted neatly into my blue lunchbox.",
+        "Packing it myself made me feel ready for the school day."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/16-lunch.webp",
+      "picture": "16-lunch",
+      "alt": "He put the second slice on top.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-017",
+      "title": "A bigger home for a plant",
+      "greeting": "Dear Auntie,",
+      "signoff": "Your friend,",
+      "sender": "Avery",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Roots were filling every bit of our plant's small pot.",
+        "I eased the roots out and lowered them into a wider pot.",
+        "Fresh soil and a little water helped the plant settle in.",
+        "I hope the extra room will help it grow strong new leaves."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/17-plant.webp",
+      "picture": "17-plant",
+      "alt": "She lowered the root ball into the large pot.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-018",
+      "title": "An invitation to movie night",
+      "greeting": "Dear Sam,",
+      "signoff": "Your friend,",
+      "sender": "Taylor",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I would like to invite you to our Friday movie night.",
+        "We have chosen a funny film about an adventurous family.",
+        "I can help make warm popcorn before we press play.",
+        "Please let me know if you can join us at six."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          0,
+          2,
+          1,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/18-popcorn.webp",
+      "picture": "18-popcorn",
+      "alt": "The heated kernels popped into the bowl.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-019",
+      "title": "Our first camp",
+      "greeting": "Dear Robin,",
+      "signoff": "Your friend,",
+      "sender": "Jordan",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We found a flat place for our tent near the lake.",
+        "We spread a groundsheet and bent the poles into a frame.",
+        "I clipped the fabric on before we added the rain cover.",
+        "Perhaps you could bring your sleeping bag next time."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/19-camp.webp",
+      "picture": "19-camp",
+      "alt": "They clipped the tent fabric to the poles.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-020",
+      "title": "A clean dog",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Cameron",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "A muddy walk left our dog looking brown from nose to tail.",
+        "We brushed off loose mud and washed its coat with bubbly shampoo.",
+        "Rinsing the bubbles away revealed clean fur underneath.",
+        "Our fluffy friend is ready for a gentle cuddle again."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/20-dog.webp",
+      "picture": "20-dog",
+      "alt": "They rinsed the soap from its coat.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-021",
+      "title": "A little boat trip",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Sam",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our instructor invited us to try rowing on the calm lake.",
+        "We fastened our life jackets and watched the rope being untied.",
+        "A gentle push took us clear of the dock and ready to row.",
+        "I hope you enjoy the picture I drew of our little voyage."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/21-boat.webp",
+      "picture": "21-boat",
+      "alt": "The instructor loosened the mooring rope.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-022",
+      "title": "At the finish line",
+      "greeting": "Dear Casey,",
+      "signoff": "Your friend,",
+      "sender": "Riley",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I felt nervous as we lined up for the school race.",
+        "I ran from the starting signal until I reached the finish ribbon.",
+        "Slowing down beyond it gave me a chance to catch my breath.",
+        "Thank you for encouraging me to keep practising."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/22-race.webp",
+      "picture": "22-race",
+      "alt": "The front runner broke the finish ribbon.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-023",
+      "title": "An autumn job",
+      "greeting": "Dear Uncle,",
+      "signoff": "Your friend,",
+      "sender": "Jamie",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Autumn leaves had covered nearly all of our lawn.",
+        "I fetched a rake and swept the leaves into a growing pile.",
+        "We scooped the finished pile into the sack he held open.",
+        "I am pleased that we made the garden tidy as a team."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/23-leaves.webp",
+      "picture": "23-leaves",
+      "alt": "She gathered the last leaves into the pile.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-024",
+      "title": "Goodbye, butterfly",
+      "greeting": "Dear Hana,",
+      "signoff": "Your friend,",
+      "sender": "Alex",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "The butterfly finally emerged from its hanging chrysalis.",
+        "Its new wings dried before we took its habitat into the garden.",
+        "Opening the mesh door gave it a way out towards the flowers.",
+        "I felt happy and a little sad as we said goodbye."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/24-butterfly.webp",
+      "picture": "24-butterfly",
+      "alt": "They opened the mesh habitat in the garden.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-025",
+      "title": "Our robot is ready",
+      "greeting": "Dear Arjun,",
+      "signoff": "Your friend,",
+      "sender": "Robin",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our class robot needed wheels before it could travel.",
+        "We fixed its wheels and fetched a battery pack for power.",
+        "Connecting that pack let us switch the robot on at last.",
+        "Would you like to help plan a route for its next journey?"
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/25-robot.webp",
+      "picture": "25-robot",
+      "alt": "They connected the battery pack to the robot.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-026",
+      "title": "A show for you",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Casey",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "A spare sock gave me an idea for a friendly puppet.",
+        "When the glued face was dry, I slipped the sock onto my hand.",
+        "Lifting that hand above the curtain brought my character to life.",
+        "I have saved the little show to perform when you visit."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/26-puppet.webp",
+      "picture": "26-puppet",
+      "alt": "She performed with the puppet above the stage.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-027",
+      "title": "A watercolour sky",
+      "greeting": "Dear Jamie,",
+      "signoff": "Your friend,",
+      "sender": "Avery",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I wanted my painted sky to look soft rather than stripy.",
+        "I dampened the paper so the blue paint would spread gently.",
+        "I let that sky dry before painting the hills below it.",
+        "Perhaps we could try a sunset picture together next time."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/27-watercolour.webp",
+      "picture": "27-watercolour",
+      "alt": "He brushed blue paint onto the damp sky.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-028",
+      "title": "Pizza for tea",
+      "greeting": "Dear Cousin,",
+      "signoff": "Your friend,",
+      "sender": "Taylor",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We decided to make a pizza instead of buying one.",
+        "I stretched the dough and covered it with tomato sauce and cheese.",
+        "Pepper slices went on top before Mum put it in the oven.",
+        "I hope you can help make our next pizza."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/28-pizza.webp",
+      "picture": "28-pizza",
+      "alt": "They sprinkled cheese over the sauce.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-029",
+      "title": "A bridge for my car",
+      "greeting": "Dear Taylor,",
+      "signoff": "Your friend,",
+      "sender": "Jordan",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "My toy car needed a bridge across an imaginary river.",
+        "I laid a long block across two towers to make a bridge deck.",
+        "That deck carried my car safely to the other side.",
+        "Would you like to help me add a road to it?"
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/29-bridge.webp",
+      "picture": "29-bridge",
+      "alt": "He laid a long block across both towers.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-030",
+      "title": "A rainy walk",
+      "greeting": "Dear Auntie,",
+      "signoff": "Your friend,",
+      "sender": "Cameron",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Dark clouds arrived as we were getting ready for a walk.",
+        "When rain began, I opened my umbrella inside the porch.",
+        "Stepping beneath the open canopy kept the rain off my coat.",
+        "Even a wet afternoon can be fun with the right things ready."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/30-umbrella.webp",
+      "picture": "30-umbrella",
+      "alt": "She opened the umbrella at the doorway.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-031",
+      "title": "My morning routine",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Sam",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I wanted our school mornings to feel a little less rushed.",
+        "Mum helped me list my jobs, including brushing after breakfast.",
+        "Doing it without a reminder made me feel more independent.",
+        "I hope I can keep my new routine going all week."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/31-tooth.webp",
+      "picture": "31-tooth",
+      "alt": "He brushed his teeth with the toothpaste.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-032",
+      "title": "Fish at feeding time",
+      "greeting": "Dear Alex,",
+      "signoff": "Your friend,",
+      "sender": "Riley",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "The fish came towards the front of the tank at feeding time.",
+        "I took a small pinch of flakes and dropped it through the hatch.",
+        "They ate the flakes while I put the food pot away.",
+        "I think you would enjoy watching their busy little mouths."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/32-aquarium.webp",
+      "picture": "32-aquarium",
+      "alt": "She dropped the flakes above the fish.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-033",
+      "title": "Apples from the garden",
+      "greeting": "Dear Nan,",
+      "signoff": "Your friend,",
+      "sender": "Jamie",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Bright red apples were waiting on the low branches.",
+        "I brought a basket and twisted each ripe apple from its stem.",
+        "The full basket smelled sweet as we carried it indoors.",
+        "Perhaps you could help us turn some into an apple crumble."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/33-apple.webp",
+      "picture": "33-apple",
+      "alt": "He twisted the apple gently by its stem.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-034",
+      "title": "My clay bowl",
+      "greeting": "Dear Mum,",
+      "signoff": "Your friend,",
+      "sender": "Alex",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "A soft ball of clay was waiting for me in art class.",
+        "I pressed a hollow in the clay and widened it into a bowl.",
+        "A damp sponge smoothed its rim before I left it to dry.",
+        "I hope you will like the colours I choose for it later."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/34-pottery.webp",
+      "picture": "34-pottery",
+      "alt": "She smoothed the damp rim with a sponge.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-035",
+      "title": "A railway adventure",
+      "greeting": "Dear Robin,",
+      "signoff": "Your friend,",
+      "sender": "Robin",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our train arrived while we were waiting on the platform.",
+        "The conductor checked our tickets before we found our seats.",
+        "Fields and little houses slipped past once the train began moving.",
+        "I spent the journey imagining another trip with you."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/35-train.webp",
+      "picture": "35-train",
+      "alt": "They stepped through the open train door.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-036",
+      "title": "Ice pops for a sunny day",
+      "greeting": "Dear Sam,",
+      "signoff": "Your friend,",
+      "sender": "Casey",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "The warm afternoon gave me an idea for a cool snack.",
+        "I filled the moulds with fruit juice and added wooden sticks.",
+        "After a long wait in the freezer, the juice had turned solid.",
+        "Come over tomorrow and choose your favourite flavour."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/36-ice.webp",
+      "picture": "36-ice",
+      "alt": "She pushed a stick into each filled mould.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-037",
+      "title": "Looking at the moon",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Avery",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "A bright crescent moon appeared above our garden at dusk.",
+        "Dad pointed the telescope while I turned its knob to focus.",
+        "Tiny marks on the moon looked much clearer through the lens.",
+        "Perhaps you can help me find another sight in the night sky."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/37-telescope.webp",
+      "picture": "37-telescope",
+      "alt": "The child turned the focus knob at the eyepiece.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-038",
+      "title": "A paper flight",
+      "greeting": "Dear Riley,",
+      "signoff": "Your friend,",
+      "sender": "Taylor",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "I wanted to make a glider from one sheet of blue paper.",
+        "I folded a pointed nose, then made two even wings.",
+        "A gentle launch sent the finished plane gliding across the room.",
+        "I wonder whether your design would travel farther than mine."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/38-paperplane.webp",
+      "picture": "38-paperplane",
+      "alt": "He folded the wings down along the sides.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-039",
+      "title": "A turn on the swing",
+      "greeting": "Dear Casey,",
+      "signoff": "Your friend,",
+      "sender": "Jordan",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "The empty swing looked like a good place to start our visit.",
+        "I held both chains while my friend gave me a gentle push.",
+        "When my turn ended, I slowed down and left the seat clear.",
+        "I enjoyed watching my friend have a turn of their own."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/39-swing.webp",
+      "picture": "39-swing",
+      "alt": "Her friend gave the swing a gentle push.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-040",
+      "title": "Cupcakes to share",
+      "greeting": "Dear Avery,",
+      "signoff": "Your friend,",
+      "sender": "Cameron",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "We baked a tray of small cupcakes for Saturday's picnic.",
+        "I piped pink swirls onto the cakes after they had cooled.",
+        "A few bright sprinkles made those swirls look ready for a party.",
+        "Please join us at the picnic and help choose a cake."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/40-cupcake.webp",
+      "picture": "40-cupcake",
+      "alt": "They piped icing onto a cooled cupcake.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-041",
+      "title": "A photo of our friends",
+      "greeting": "Dear Cousin,",
+      "signoff": "Your friend,",
+      "sender": "Sam",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our school garden made a colourful place for a photo.",
+        "My friends smiled while I held the camera steady and clicked.",
+        "The new picture on the screen showed their cheerful faces.",
+        "I will bring a copy to show you at the weekend."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/41-photo.webp",
+      "picture": "41-photo",
+      "alt": "The photographer pressed the shutter button.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-042",
+      "title": "A tidy classroom",
+      "greeting": "Dear Dad,",
+      "signoff": "Your friend,",
+      "sender": "Riley",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our class found several empty bottles after lunch.",
+        "We rinsed them at the sink, ready for the recycling bin.",
+        "Adding them to it helped clear the table for our next lesson.",
+        "I am glad our little jobs can help keep the classroom tidy."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/42-recycle.webp",
+      "picture": "42-recycle",
+      "alt": "She placed the clean bottle in the recycling bin.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-043",
+      "title": "A button repaired",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Jamie",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "The button on my favourite pouch was becoming loose.",
+        "You helped me line up the button and stitch it to the fabric.",
+        "Tying the thread at the back kept those stitches from coming undone.",
+        "Thank you for showing me how to mend something I wanted to keep."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/43-sew.webp",
+      "picture": "43-sew",
+      "alt": "They stitched through the button holes.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-044",
+      "title": "A magnetic discovery",
+      "greeting": "Dear Hana,",
+      "signoff": "Your friend,",
+      "sender": "Alex",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our teacher put a paper clip, a bead and a wooden block on the table.",
+        "I brought a magnet close and watched only the paper clip move.",
+        "Its movement showed that the magnet attracted that metal object.",
+        "I have made a list of more things we could test together."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/44-magnet.webp",
+      "picture": "44-magnet",
+      "alt": "The clip jumped up and stuck to the magnet.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-045",
+      "title": "Soup for tea",
+      "greeting": "Dear Nan,",
+      "signoff": "Your friend,",
+      "sender": "Robin",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our kitchen smelled lovely when Mum began chopping vegetables.",
+        "Mum put the chopped pieces in the pan while I set out bowls.",
+        "The ready places meant we could sit down as soon as it was served.",
+        "I would enjoy helping to cook your favourite soup next time."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/45-soup.webp",
+      "picture": "45-soup",
+      "alt": "The soup simmered as the adult stirred it.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-046",
+      "title": "A visit to the bees",
+      "greeting": "Dear Grandpa,",
+      "signoff": "Your friend,",
+      "sender": "Casey",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "The beekeeper checked our protective suits before opening the hive.",
+        "We stood with our veils closed as a honeycomb frame was lifted.",
+        "The raised frame gave us a close look at the busy bees.",
+        "I hope you will enjoy hearing what we learned about their home."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/46-honey.webp",
+      "picture": "46-honey",
+      "alt": "The beekeeper raised a honeycomb frame.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-047",
+      "title": "Finding our way",
+      "greeting": "Dear Uncle,",
+      "signoff": "Your friend,",
+      "sender": "Avery",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our woodland walk brought us to two paths going different ways.",
+        "Our map helped us choose a path at the fork.",
+        "The chosen branch led us towards the place we wanted to reach.",
+        "I am looking forward to trying another trail with you soon."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/47-map.webp",
+      "picture": "47-map",
+      "alt": "They matched the two paths to the map.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-048",
+      "title": "A green garden seat",
+      "greeting": "Dear Auntie,",
+      "signoff": "Your friend,",
+      "sender": "Taylor",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "Our garden bench was ready for a fresh coat of green paint.",
+        "We cleaned the slats and brushed on a fresh coat of paint.",
+        "We left the wet bench alone until its shiny paint had dried.",
+        "I have saved you a place for our next garden tea."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/48-bench.webp",
+      "picture": "48-bench",
+      "alt": "They painted the clean bench green.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-049",
+      "title": "Practising my music",
+      "greeting": "Dear Grandma,",
+      "signoff": "Your friend,",
+      "sender": "Jordan",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "My violin sounded different when I took it from its case.",
+        "My teacher listened to a string and turned its tuning peg.",
+        "The tuned strings made my little practice piece sound much clearer.",
+        "I will keep practising so I can play it for you next month."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/49-violin.webp",
+      "picture": "49-violin",
+      "alt": "She played a note while the teacher tuned it.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    },
+    {
+      "id": "AA-050",
+      "title": "A shell on the beach",
+      "greeting": "Dear Alex,",
+      "signoff": "Your friend,",
+      "sender": "Cameron",
+      "question": "Put the sentences in order to write a friendly letter.",
+      "sentences": [
+        "A curved shell shape caught my eye beside the wet sand.",
+        "I lifted the empty shell and rinsed sand from its pattern.",
+        "The clean spiral was lovely to examine before I put it back.",
+        "Perhaps we can search for interesting shapes together next time."
+      ],
+      "orders": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "image": "../Before-and-After-Adventures/assets/illustrations/50-shell.webp",
+      "picture": "50-shell",
+      "alt": "She rinsed the loose sand from the shell.",
+      "hint": "Start with the news or reason for writing. Follow the details, then finish with the message to the reader.",
+      "why": "Your opening introduces the news, the details follow clearly, and the last sentence speaks to your reader."
+    }
+  ]
+}

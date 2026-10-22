@@ -1,0 +1,122 @@
+[
+  {
+    "savedId": "pencil",
+    "previousPicture": "Pencil",
+    "picture": "Watering can",
+    "image": "assets/profile-items/watering-can.webp"
+  },
+  {
+    "savedId": "crayon",
+    "previousPicture": "Crayon",
+    "picture": "Sand bucket",
+    "image": "assets/profile-items/sand-bucket.webp"
+  },
+  {
+    "savedId": "eraser",
+    "previousPicture": "Eraser",
+    "picture": "Kite",
+    "image": "assets/profile-items/kite.webp"
+  },
+  {
+    "savedId": "ruler",
+    "previousPicture": "Ruler",
+    "picture": "Bird feeder",
+    "image": "assets/profile-items/bird-feeder.webp"
+  },
+  {
+    "savedId": "glue",
+    "previousPicture": "Glue",
+    "picture": "Bicycle",
+    "image": "assets/profile-items/bicycle.webp"
+  },
+  {
+    "savedId": "scissors",
+    "previousPicture": "Scissors",
+    "picture": "Helmet",
+    "image": "assets/profile-items/helmet.webp"
+  },
+  {
+    "savedId": "notebook",
+    "previousPicture": "Notebook",
+    "picture": "Toy train",
+    "image": "assets/profile-items/toy-train.webp"
+  },
+  {
+    "savedId": "book",
+    "previousPicture": "Book",
+    "picture": "Puzzle piece",
+    "image": "assets/profile-items/puzzle-piece.webp"
+  },
+  {
+    "savedId": "backpack",
+    "previousPicture": "Backpack",
+    "picture": "Carrot",
+    "image": "assets/profile-items/carrot.webp"
+  },
+  {
+    "savedId": "marker",
+    "previousPicture": "Marker",
+    "picture": "Envelope",
+    "image": "assets/profile-items/envelope.webp"
+  },
+  {
+    "savedId": "paintbrush",
+    "previousPicture": "Paintbrush",
+    "picture": "Paint palette",
+    "image": "assets/profile-items/paint-palette.webp"
+  },
+  {
+    "savedId": "palette",
+    "previousPicture": "Palette",
+    "picture": "Lunchbox",
+    "image": "assets/profile-items/lunchbox.webp"
+  },
+  {
+    "savedId": "calculator",
+    "previousPicture": "Calculator",
+    "picture": "Plant pot",
+    "image": "assets/profile-items/plant-pot.webp"
+  },
+  {
+    "savedId": "sharpener",
+    "previousPicture": "Sharpener",
+    "picture": "Tent",
+    "image": "assets/profile-items/tent.webp"
+  },
+  {
+    "savedId": "paper-clip",
+    "previousPicture": "Paper clip",
+    "picture": "Telescope",
+    "image": "assets/profile-items/telescope.webp"
+  },
+  {
+    "savedId": "stapler",
+    "previousPicture": "Stapler",
+    "picture": "Paper plane",
+    "image": "assets/profile-items/paper-plane.webp"
+  },
+  {
+    "savedId": "tape",
+    "previousPicture": "Tape",
+    "picture": "Cupcake",
+    "image": "assets/profile-items/cupcake.webp"
+  },
+  {
+    "savedId": "folder",
+    "previousPicture": "Folder",
+    "picture": "Seashell",
+    "image": "assets/profile-items/seashell.webp"
+  },
+  {
+    "savedId": "compass",
+    "previousPicture": "Compass",
+    "picture": "Robot",
+    "image": "assets/profile-items/robot.webp"
+  },
+  {
+    "savedId": "highlighter",
+    "previousPicture": "Highlighter",
+    "picture": "Violin",
+    "image": "assets/profile-items/violin.webp"
+  }
+]

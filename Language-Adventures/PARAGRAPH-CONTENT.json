@@ -1,0 +1,608 @@
+{
+  "version": 2,
+  "updated": "2026-10-19",
+  "taskCount": 60,
+  "approach": "The spare sentence shares the setting, activity or object, but does not support the stated main idea. A and AA use different spare sentences.",
+  "topics": [
+    {
+      "number": 1,
+      "title": "Keeping a tent dry",
+      "focus": "keeping rain away from the bedding",
+      "A": [
+        "A rain cover helps keep a tent dry.",
+        "It stops rain from reaching the bedding.",
+        "The campers have a dry place to sleep."
+      ],
+      "AA": [
+        "A rain cover keeps water away from a tent’s sleeping space.",
+        "Its sloping surface directs rain away from the bedding.",
+        "Secure pegs keep the cover stretched over the tent.",
+        "A well-fitted cover helps the sleeping space stay dry."
+      ],
+      "spareA": "The tent has pockets for small things.",
+      "spareAA": "A mesh panel lets fresh air move through the tent.",
+      "whyA": "The pockets store things; they do not keep rain away from the bedding.",
+      "whyAA": "The mesh panel provides fresh air. This paragraph explains protection from rain."
+    },
+    {
+      "number": 2,
+      "title": "Reading a trail map",
+      "focus": "using map markings to choose a route",
+      "A": [
+        "Hikers use a map to choose their route.",
+        "Its marked paths show the way to the campsite.",
+        "The group can follow the route they have chosen."
+      ],
+      "AA": [
+        "Reading a map’s markings helps hikers choose a route.",
+        "Marked paths show possible ways to reach the campsite.",
+        "Landmarks help the hikers check where they are.",
+        "These clues help the group work out which path to follow."
+      ],
+      "spareA": "The hikers carry snacks in their backpacks.",
+      "spareAA": "A folded map fits neatly into a jacket pocket.",
+      "whyA": "Carrying snacks is part of a hike, but it does not explain finding a route on a map.",
+      "whyAA": "The spare sentence explains how to carry the map, rather than how to read its route clues."
+    },
+    {
+      "number": 3,
+      "title": "Getting ready to write",
+      "focus": "preparing a writing space",
+      "A": [
+        "Lina gets her desk ready before she writes.",
+        "She opens her notebook to a clean page.",
+        "Now she has a clear place to begin."
+      ],
+      "AA": [
+        "Preparing her desk helps Lina get ready to write.",
+        "Her open notebook gives her room for a sentence.",
+        "Her pencil rests where she can easily reach it.",
+        "With her materials ready, Lina can begin her writing."
+      ],
+      "spareA": "Lina writes about a trip to the park.",
+      "spareAA": "Lina plans a surprising ending for her story.",
+      "whyA": "The trip is the subject of Lina’s writing. The paragraph is about getting her desk ready.",
+      "whyAA": "Planning the story’s ending concerns its content, rather than preparing the writing space."
+    },
+    {
+      "number": 4,
+      "title": "Fitting a bicycle helmet",
+      "focus": "making sure a helmet fits properly",
+      "A": [
+        "A bicycle helmet needs to fit properly.",
+        "Its straps fasten firmly under the rider’s chin.",
+        "The helmet can then stay in place during the ride."
+      ],
+      "AA": [
+        "Checking a helmet’s fit helps it stay in the right position.",
+        "The helmet sits low and level on the rider’s head.",
+        "Fastened straps stop it from shifting easily.",
+        "These checks help the helmet fit securely before the ride."
+      ],
+      "spareA": "The rider rings the bicycle bell on the path.",
+      "spareAA": "Reflectors help drivers notice a bicycle in dim light.",
+      "whyA": "Ringing a bell concerns using the bicycle, rather than fitting the helmet.",
+      "whyAA": "Reflectors are also safety equipment, but they do not explain how a helmet should fit."
+    },
+    {
+      "number": 5,
+      "title": "Choosing a kite-flying space",
+      "focus": "choosing a clear place to fly a kite",
+      "A": [
+        "A kite needs a clear place to fly.",
+        "An open field gives it room to rise.",
+        "Choosing enough space is a good start."
+      ],
+      "AA": [
+        "Choosing a clear flying area gives a kite enough space.",
+        "An open field gives the string room to stretch.",
+        "Space away from trees keeps it clear of branches.",
+        "A suitable place gives the kite room to rise and move."
+      ],
+      "spareA": "Some kites are made from thin paper.",
+      "spareAA": "A long tail helps a kite stay steady in the wind.",
+      "whyA": "The paper tells us what a kite is made from, rather than where to fly it.",
+      "whyAA": "The tail helps the kite balance. The paragraph is about choosing a clear flying area."
+    },
+    {
+      "number": 6,
+      "title": "Preparing a picnic spot",
+      "focus": "getting a comfortable place ready for lunch",
+      "A": [
+        "The friends prepare a picnic spot for lunch.",
+        "They spread a blanket on a dry patch of grass.",
+        "Now they have a comfortable place to eat."
+      ],
+      "AA": [
+        "Preparing a picnic spot makes an outdoor meal comfortable.",
+        "A dry patch of grass is a good place for the blanket.",
+        "An open basket puts the lunch within easy reach.",
+        "With the spot ready, the friends can sit down to eat."
+      ],
+      "spareA": "The friends wave to a dog on the path.",
+      "spareAA": "One friend tells a funny story during lunch.",
+      "whyA": "Waving to the dog does not help prepare the place where the friends will eat.",
+      "whyAA": "Telling a story is part of enjoying lunch, rather than preparing the picnic spot."
+    },
+    {
+      "number": 7,
+      "title": "Preparing to sail",
+      "focus": "checking equipment before the sailing lesson",
+      "A": [
+        "Sailors check their equipment before leaving.",
+        "The instructor looks closely at the ropes.",
+        "These checks help the group begin safely."
+      ],
+      "AA": [
+        "Checking equipment is part of preparing for a sailing lesson.",
+        "The instructor checks that the ropes are in place.",
+        "The children check that their life jackets fit securely.",
+        "These equipment checks help the group begin safely."
+      ],
+      "spareA": "The sailors practise turning the boat.",
+      "spareAA": "The instructor demonstrates how to steer around a buoy.",
+      "whyA": "Practising a turn is a sailing skill. The paragraph is about checking equipment before setting off.",
+      "whyAA": "Steering around a buoy is something to practise during sailing, rather than an equipment check."
+    },
+    {
+      "number": 8,
+      "title": "A safe first dive",
+      "focus": "safe conditions for a beginner diving lesson",
+      "A": [
+        "Beginners learn to dive with help close by.",
+        "An instructor stays beside them in shallow water.",
+        "The children can practise with support nearby."
+      ],
+      "AA": [
+        "Safe conditions help beginners practise their diving skills.",
+        "An instructor stays close enough to guide the learners.",
+        "Their checked diving equipment provides the air they need.",
+        "Guidance and suitable equipment help the lesson begin safely."
+      ],
+      "spareA": "Small fish swim above the sandy bottom.",
+      "spareAA": "The learners compare the colours of two passing fish.",
+      "whyA": "The fish describe the underwater setting, rather than the support that helps beginners learn safely.",
+      "whyAA": "Comparing fish is an observation activity. It does not explain the lesson’s safety arrangements."
+    },
+    {
+      "number": 9,
+      "title": "Removing garden weeds",
+      "focus": "giving vegetable plants room by removing weeds",
+      "A": [
+        "Pulling weeds gives vegetables more room.",
+        "Sofia lifts the weeds out of the garden bed.",
+        "The vegetables have less crowding around them."
+      ],
+      "AA": [
+        "Removing weeds reduces crowding around young vegetables.",
+        "Sofia pulls the unwanted plants out of the soil.",
+        "Her bucket keeps the pulled weeds out of the garden bed.",
+        "This weeding leaves more space around the vegetables."
+      ],
+      "spareA": "A yellow flower grows beside the garden path.",
+      "spareAA": "The vegetables will be washed before they are cooked.",
+      "whyA": "The flower describes another part of the garden, rather than removing weeds from the vegetable bed.",
+      "whyAA": "Preparing vegetables for a meal is a different task. It does not explain removing weeds from the bed."
+    },
+    {
+      "number": 10,
+      "title": "Mixing cake batter",
+      "focus": "bringing ingredients together in the mixing bowl",
+      "A": [
+        "Stirring brings cake ingredients together.",
+        "A spoon mixes them inside the bowl.",
+        "The batter is ready for the next baking step."
+      ],
+      "AA": [
+        "Careful mixing brings cake ingredients together in a bowl.",
+        "A steady bowl keeps the ingredients together.",
+        "Gentle stirring combines them without splashing them out.",
+        "The mixed batter is then ready for the next step."
+      ],
+      "spareA": "The cake will cool on a wire rack.",
+      "spareAA": "The oven is set to the temperature the recipe needs.",
+      "whyA": "Cooling happens later. The paragraph explains mixing the ingredients in the bowl.",
+      "whyAA": "Setting the oven concerns baking, rather than combining ingredients in the mixing bowl."
+    },
+    {
+      "number": 11,
+      "title": "Preparing a science workspace",
+      "focus": "keeping the experiment’s workspace clear and tidy",
+      "A": [
+        "A tray helps keep a science table tidy.",
+        "It catches drips underneath the cups.",
+        "The table stays cleaner while the children work."
+      ],
+      "AA": [
+        "A prepared workspace helps keep a science experiment tidy.",
+        "A tray beneath the cup catches stray drips.",
+        "A clear area gives the children room for their equipment.",
+        "These preparations keep the work area easier to use."
+      ],
+      "spareA": "The children draw what they see in the cup.",
+      "spareAA": "The children write down the changes they observe.",
+      "whyA": "Drawing records what happens in the cup, rather than keeping the work area tidy.",
+      "whyAA": "Writing observations records the experiment’s results. It does not describe preparing the workspace."
+    },
+    {
+      "number": 12,
+      "title": "Dressing for snow",
+      "focus": "choosing clothes that keep the body warm",
+      "A": [
+        "Warm clothes help children enjoy snowy weather.",
+        "Gloves cover their hands in the cold.",
+        "The children can play more comfortably."
+      ],
+      "AA": [
+        "Warm clothing helps children prepare for a snowy day.",
+        "Gloves protect their fingers from the cold snow.",
+        "Winter coats help keep their bodies warm outside.",
+        "Dressing for the weather makes outdoor play more comfortable."
+      ],
+      "spareA": "The children choose a place to build a snowman.",
+      "spareAA": "The children use a sled to travel down a gentle hill.",
+      "whyA": "Choosing a snowman spot is a play activity, rather than a choice about warm clothing.",
+      "whyAA": "The sled is used for a snowy activity. The paragraph explains clothing that keeps the body warm."
+    },
+    {
+      "number": 13,
+      "title": "Shaping a sandcastle",
+      "focus": "using tools to form the castle’s main shapes",
+      "A": [
+        "Simple tools help shape a sandcastle.",
+        "A bucket forms towers from damp sand.",
+        "The builders can use tools to add more shapes."
+      ],
+      "AA": [
+        "Simple tools help form a sandcastle’s main shapes.",
+        "A bucket can shape damp sand into towers.",
+        "Small scoops move sand into the gaps between the walls.",
+        "Using these tools helps the castle take shape."
+      ],
+      "spareA": "A shell will decorate the top of the castle.",
+      "spareAA": "Shells pressed into the walls make a colourful pattern.",
+      "whyA": "The shell decorates the castle. It is not a tool for shaping the sand.",
+      "whyAA": "The shells add decoration to existing walls, rather than forming the castle’s main sand shapes."
+    },
+    {
+      "number": 14,
+      "title": "Waiting safely at a station",
+      "focus": "waiting safely on the platform",
+      "A": [
+        "Passengers wait safely on the station platform.",
+        "They stand behind the platform’s safety line.",
+        "They stay clear of the edge while the train arrives."
+      ],
+      "AA": [
+        "Passengers follow safety rules while waiting on a platform.",
+        "The safety line keeps waiting passengers back from the edge.",
+        "Clear walkways give other passengers room to pass.",
+        "These habits help people wait safely for their train."
+      ],
+      "spareA": "Passengers buy tickets before reaching the platform.",
+      "spareAA": "A ticket shows which train service a passenger has booked.",
+      "whyA": "Buying a ticket is another part of a train journey, rather than a rule for waiting safely on the platform.",
+      "whyAA": "The ticket identifies a service. The paragraph explains safe behaviour while waiting on the platform."
+    },
+    {
+      "number": 15,
+      "title": "Fresh water for a dog",
+      "focus": "making fresh drinking water available to a dog",
+      "A": [
+        "Dogs need fresh drinking water.",
+        "A clean bowl holds it where the dog can reach it.",
+        "Checking the bowl helps the dog get a drink."
+      ],
+      "AA": [
+        "Fresh drinking water should be easy for a dog to reach.",
+        "A clean bowl keeps the water in one place.",
+        "An easy-to-reach spot lets the dog drink when it needs to.",
+        "Checking the water regularly helps meet this need."
+      ],
+      "spareA": "The dog likes to play fetch after its walk.",
+      "spareAA": "Brushing the dog’s coat removes loose fur.",
+      "whyA": "Playing fetch is part of the dog’s day, rather than providing drinking water.",
+      "whyAA": "Brushing is another kind of dog care, but it does not make drinking water available."
+    },
+    {
+      "number": 16,
+      "title": "Passing as a team",
+      "focus": "moving the ball between football teammates",
+      "A": [
+        "Passing helps football players share the ball.",
+        "A careful pass sends it to a teammate.",
+        "Working together keeps the ball moving between players."
+      ],
+      "AA": [
+        "Passing is one way football players share the ball.",
+        "Looking up helps a player notice a ready teammate.",
+        "A controlled kick sends the ball towards that teammate.",
+        "Good passes give more players a part in the game."
+      ],
+      "spareA": "A player stretches before running onto the field.",
+      "spareAA": "A player practises aiming shots at the goal.",
+      "whyA": "Stretching prepares a player’s body, rather than moving the ball between teammates.",
+      "whyAA": "Shooting aims the ball at the goal. This paragraph explains passing it to another player."
+    },
+    {
+      "number": 17,
+      "title": "Choosing a library book",
+      "focus": "using clues from a book to decide whether to read it",
+      "A": [
+        "A reader looks for clues when choosing a book.",
+        "The cover gives a first idea of the story inside.",
+        "These clues help the reader decide what to read."
+      ],
+      "AA": [
+        "Clues in a book help a reader decide whether it is a good fit.",
+        "The cover offers clues about what the story may contain.",
+        "A few pages show the reader how the story is written.",
+        "Looking at these clues helps the reader make a choice."
+      ],
+      "spareA": "The librarian stamps a return date inside the book.",
+      "spareAA": "A plastic cover protects the book while it is on loan.",
+      "whyA": "The stamp tells the reader when to return the book, rather than what its story is like.",
+      "whyAA": "The plastic cover protects the book. It does not offer clues to help the reader choose a story."
+    },
+    {
+      "number": 18,
+      "title": "Building safely with an adult",
+      "focus": "working safely with adult guidance",
+      "A": [
+        "Children build a treehouse with adult guidance.",
+        "An adult handles tools that are unsafe for children.",
+        "The children can learn while working safely."
+      ],
+      "AA": [
+        "Adult guidance helps children work safely on a treehouse.",
+        "An adult checks measurements before any boards are cut.",
+        "The adult handles tools that are unsuitable for children.",
+        "Following this guidance lets the children learn safely."
+      ],
+      "spareA": "The finished treehouse will have a green roof.",
+      "spareAA": "Paint colours can help a treehouse blend with nearby leaves.",
+      "whyA": "The roof’s colour concerns appearance, rather than working safely with an adult.",
+      "whyAA": "Choosing colours changes how the treehouse looks. It does not explain safe working arrangements."
+    },
+    {
+      "number": 19,
+      "title": "A strong model bridge",
+      "focus": "building the parts that support a model bridge",
+      "A": [
+        "A model bridge needs a strong frame.",
+        "The builders join craft sticks to support the crossing.",
+        "The joined pieces help the bridge stand firmly."
+      ],
+      "AA": [
+        "A model bridge needs a structure that supports its crossing.",
+        "Supports hold up the centre of the bridge.",
+        "Joined craft sticks form the sides of the crossing.",
+        "These parts work together to hold the model firmly."
+      ],
+      "spareA": "The builders paint small stars on the bridge.",
+      "spareAA": "The bridge is painted to match a nearby model village.",
+      "whyA": "The stars decorate the model, rather than helping to hold it up.",
+      "whyAA": "Matching paint colours concerns appearance, rather than the parts supporting the crossing."
+    },
+    {
+      "number": 20,
+      "title": "Sharing mixing jobs",
+      "focus": "sharing the jobs during mixing",
+      "A": [
+        "Baking helpers can share the mixing jobs.",
+        "One holds the bowl while another stirs.",
+        "Both helpers have a useful task."
+      ],
+      "AA": [
+        "Sharing mixing tasks helps kitchen helpers work together.",
+        "One helper steadies the bowl during mixing.",
+        "Another helper stirs the ingredients with a spoon.",
+        "Giving each person a job makes the mixing easier to share."
+      ],
+      "spareA": "The batter is pale yellow in the bowl.",
+      "spareAA": "The recipe combines flour, eggs and milk in one mixture.",
+      "whyA": "The colour describes the batter, rather than the jobs the helpers share.",
+      "whyAA": "The ingredients describe what is being mixed. The paragraph explains who does each mixing job."
+    },
+    {
+      "number": 21,
+      "title": "Watching wildlife from a distance",
+      "focus": "using binoculars to see distant wildlife",
+      "A": [
+        "Binoculars help hikers see distant wildlife.",
+        "The lenses make faraway details look larger.",
+        "The hikers can watch without getting too close."
+      ],
+      "AA": [
+        "Binoculars let hikers examine wildlife from a distance.",
+        "The lenses make distant shapes appear larger.",
+        "The hikers can stay on the path while watching.",
+        "This tool helps them see closely without moving nearer."
+      ],
+      "spareA": "The hikers’ boots leave prints in the mud.",
+      "spareAA": "A soft case protects the binoculars inside a backpack.",
+      "whyA": "The footprints describe the walk, rather than how binoculars help the hikers see wildlife.",
+      "whyAA": "The case protects the binoculars during storage. It does not explain using them to observe from a distance."
+    },
+    {
+      "number": 22,
+      "title": "Making a snowman’s base",
+      "focus": "forming a base that can support a snowman",
+      "A": [
+        "A large snowball makes a snowman’s base.",
+        "Rolling it across fresh snow makes it grow.",
+        "The builders have a strong start for their snowman."
+      ],
+      "AA": [
+        "A snowman needs a broad base to support its upper parts.",
+        "Rolling a snowball across fresh snow adds more snow to it.",
+        "A broad base gives the upper snowballs a place to rest.",
+        "A carefully built base helps support the finished snowman."
+      ],
+      "spareA": "A carrot makes a bright nose for the snowman.",
+      "spareAA": "A scarf gives the snowman a cheerful winter look.",
+      "whyA": "The carrot forms a face detail, rather than the base supporting the snowman.",
+      "whyAA": "The scarf decorates the snowman. It does not help build its supporting base."
+    },
+    {
+      "number": 23,
+      "title": "Talking about a shared story",
+      "focus": "understanding a story by discussing it together",
+      "A": [
+        "Friends can work out a story together.",
+        "They talk about the pictures to follow what happens.",
+        "Sharing ideas helps them understand the story."
+      ],
+      "AA": [
+        "Talking about a shared story helps friends understand it.",
+        "Reading the same page gives them something to discuss.",
+        "Talking about a picture helps them notice new details.",
+        "Sharing their ideas can make the story easier to understand."
+      ],
+      "spareA": "They carry the book in a waterproof bag.",
+      "spareAA": "They use a bookmark to save the page for tomorrow.",
+      "whyA": "The bag protects the book. It does not help the friends discuss what the story means.",
+      "whyAA": "The bookmark saves their place for later. It does not describe understanding the story through discussion."
+    },
+    {
+      "number": 24,
+      "title": "Magnifying a leaf",
+      "focus": "how a magnifying glass changes the view of a leaf",
+      "A": [
+        "A magnifying glass changes the view of a leaf.",
+        "Its lens makes tiny lines look larger.",
+        "The leaf itself stays the same size."
+      ],
+      "AA": [
+        "A magnifying glass makes small leaf details easier to see.",
+        "Its lens enlarges the view of the leaf’s tiny lines.",
+        "The leaf can be viewed without changing its actual size.",
+        "This tool reveals details that are hard to see unaided."
+      ],
+      "spareA": "The leaf turns yellow when the season changes.",
+      "spareAA": "Pressing a leaf between dry pages helps preserve it.",
+      "whyA": "The colour changes in the leaf itself. The paragraph explains how a lens changes our view of it.",
+      "whyAA": "Pressing preserves the leaf, rather than enlarging the details seen through a lens."
+    },
+    {
+      "number": 25,
+      "title": "Checking a robot’s connection",
+      "focus": "checking an electrical connection in a robot",
+      "A": [
+        "A loose plug can stop a small robot from working.",
+        "Nia checks the plug and connects it firmly.",
+        "The green light shows the connection is working."
+      ],
+      "AA": [
+        "Checking a connection can help solve a robot’s power problem.",
+        "A loose plug may stop power from reaching part of the robot.",
+        "A glowing indicator gives clues about the connection.",
+        "These checks help the builders trace the power problem."
+      ],
+      "spareA": "The robot’s wheels help it turn around.",
+      "spareAA": "Different wheel sizes change how the robot moves.",
+      "whyA": "The wheels explain movement, rather than checking whether a plug is connected.",
+      "whyAA": "Wheel sizes affect movement. The paragraph focuses on tracing an electrical connection problem."
+    },
+    {
+      "number": 26,
+      "title": "Comparing glider landings",
+      "focus": "comparing where gliders land in a flight test",
+      "A": [
+        "Glider landings give the flyers results to compare.",
+        "One glider reaches the grass and another lands in a bush.",
+        "The flyers compare where the two gliders finish."
+      ],
+      "AA": [
+        "Recording glider landings gives the flyers results to compare.",
+        "Maya’s glider lands on a clear patch of grass.",
+        "Ben’s glider drifts sideways into a bush.",
+        "Comparing the landings helps the flyers plan another test."
+      ],
+      "spareA": "The gliders are made from folded sheets of paper.",
+      "spareAA": "A fold down the middle gives each glider two wings.",
+      "whyA": "The paper sentence explains how the gliders are made, rather than where they land.",
+      "whyAA": "The fold describes the gliders’ construction. It does not record or compare their flight results."
+    },
+    {
+      "number": 27,
+      "title": "Spotting a ready basketball teammate",
+      "focus": "noticing that a teammate is ready to catch a pass",
+      "A": [
+        "A passer looks for a teammate who is ready.",
+        "Empty raised hands show a chance to pass.",
+        "The ball can move to the waiting teammate."
+      ],
+      "AA": [
+        "A basketball passer looks for signs of a ready teammate.",
+        "A player facing the ball can watch it approach.",
+        "Empty raised hands show that the teammate can try to catch it.",
+        "These clues help the passer choose a sensible moment."
+      ],
+      "spareA": "The basketball net hangs high above the court.",
+      "spareAA": "A shooter bends their knees before aiming at the hoop.",
+      "whyA": "The net describes the court, rather than a teammate’s readiness to catch a pass.",
+      "whyAA": "Aiming at the hoop prepares a shot, rather than showing readiness to receive a teammate’s pass."
+    },
+    {
+      "number": 28,
+      "title": "Brushing a pony safely",
+      "focus": "cleaning a pony’s coat through gentle, supervised brushing",
+      "A": [
+        "A pony’s coat should be brushed gently.",
+        "A suitable brush lifts dust out of the coat.",
+        "Careful brushing keeps the coat clean and comfortable."
+      ],
+      "AA": [
+        "Gentle, supervised brushing helps clean a pony’s coat.",
+        "A suitable brush lifts dust from the coat.",
+        "An instructor helps the children stand in a safe place.",
+        "With guidance, they can brush without upsetting the pony."
+      ],
+      "spareA": "The pony eats hay from a net in its stall.",
+      "spareAA": "The pony follows a regular feeding routine each day.",
+      "whyA": "Eating hay concerns feeding, rather than brushing the pony’s coat.",
+      "whyAA": "A feeding routine is another part of pony care, but it does not explain gentle, supervised brushing."
+    },
+    {
+      "number": 29,
+      "title": "Studying a museum display",
+      "focus": "using observation and a guide to understand a display",
+      "A": [
+        "Visitors study a museum display to learn about it.",
+        "A guide helps explain details they can see.",
+        "Looking and listening help them understand the display."
+      ],
+      "AA": [
+        "Observation and a guide’s explanations help visitors learn.",
+        "Looking closely reveals details in the fossil display.",
+        "The guide explains ideas that are not clear from looking alone.",
+        "Using both sources helps visitors understand the display."
+      ],
+      "spareA": "The display case is locked when the museum closes.",
+      "spareAA": "A padded storage box protects the fossil during travel.",
+      "whyA": "Locking the case concerns security, rather than learning by looking and listening.",
+      "whyAA": "The storage box protects the fossil. It does not explain how visitors study the display."
+    },
+    {
+      "number": 30,
+      "title": "Discussing a space model",
+      "focus": "using a shared model to explain ideas to one another",
+      "A": [
+        "A space model helps children share their ideas.",
+        "They point to the model planets as they explain.",
+        "The group has one display to talk about together."
+      ],
+      "AA": [
+        "A shared space model helps children explain ideas to each other.",
+        "One display gives everyone the same model to examine.",
+        "Taking turns pointing lets different children explain ideas.",
+        "The shared model supports their questions and discussion."
+      ],
+      "spareA": "The model planets are made from painted foam.",
+      "spareAA": "Clear varnish protects the model’s painted surface.",
+      "whyA": "The foam tells us what the model is made from, rather than how the group uses it to share ideas.",
+      "whyAA": "The varnish protects the model. It does not explain using the model for group discussion."
+    }
+  ]
+}

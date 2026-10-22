@@ -1,0 +1,585 @@
+{
+  "runtime": {
+    "pictures": 50,
+    "storiesPerLevel": 50,
+    "levels": [
+      "A",
+      "AA"
+    ],
+    "individualDecisions": 200,
+    "rejectedWrongChoices": 500,
+    "duplicateCreditChecks": 200,
+    "profileIsolation": true,
+    "restore": true,
+    "resetPreservesCredit": true,
+    "reverseOrder": true,
+    "largest": [
+      {
+        "level": "A",
+        "index": 26,
+        "title": "Painting the sky",
+        "chars": 55
+      },
+      {
+        "level": "AA",
+        "index": 26,
+        "title": "Painting the sky",
+        "chars": 55
+      },
+      {
+        "level": "A",
+        "index": 41,
+        "title": "A second use",
+        "chars": 53
+      },
+      {
+        "level": "AA",
+        "index": 41,
+        "title": "A second use",
+        "chars": 53
+      },
+      {
+        "level": "A",
+        "index": 33,
+        "title": "The clay bowl",
+        "chars": 51
+      }
+    ]
+  },
+  "browser": {
+    "activity": [
+      {
+        "answerFont": "26px",
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "picture": {
+          "bottom": 649.7396087646484,
+          "height": 469.0729370117187,
+          "left": 31.666667938232425,
+          "right": 674.5937919616699,
+          "top": 180.6666717529297,
+          "width": 642.9271240234375,
+          "x": 31.666667938232425,
+          "y": 180.6666717529297
+        },
+        "width": 1366
+      },
+      {
+        "answerFont": "26px",
+        "documentOverflow": false,
+        "height": 720,
+        "outside": [],
+        "overflow": [],
+        "picture": {
+          "bottom": 601.7396087646484,
+          "height": 421.0729370117187,
+          "left": 31.666667938232425,
+          "right": 631.1666679382324,
+          "top": 180.6666717529297,
+          "width": 599.5,
+          "x": 31.666667938232425,
+          "y": 180.6666717529297
+        },
+        "width": 1280
+      },
+      {
+        "answerFont": "23px",
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "picture": {
+          "bottom": 652.4375152587891,
+          "height": 471.7708435058594,
+          "left": 31.666667938232425,
+          "right": 501.8958549499512,
+          "top": 180.6666717529297,
+          "width": 470.2291870117187,
+          "x": 31.666667938232425,
+          "y": 180.6666717529297
+        },
+        "width": 1024
+      },
+      {
+        "answerFont": "26px",
+        "documentOverflow": false,
+        "height": 1024,
+        "outside": [],
+        "overflow": [],
+        "picture": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "width": 768
+      },
+      {
+        "answerFont": "20px",
+        "documentOverflow": false,
+        "height": 844,
+        "outside": [],
+        "overflow": [],
+        "picture": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "width": 390
+      },
+      {
+        "answerFont": "17px",
+        "documentOverflow": false,
+        "height": 390,
+        "outside": [],
+        "overflow": [],
+        "picture": {
+          "bottom": 316.5833435058594,
+          "height": 195.9166717529297,
+          "left": 18.666667938232425,
+          "right": 371.7604179382324,
+          "top": 120.66667175292967,
+          "width": 353.09375,
+          "x": 18.666667938232425,
+          "y": 120.66667175292967
+        },
+        "width": 844
+      }
+    ],
+    "gallery": [
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1366
+      },
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 720,
+        "outside": [],
+        "overflow": [],
+        "width": 1280
+      },
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1024
+      },
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 1024,
+        "outside": [],
+        "overflow": [],
+        "width": 768
+      },
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 844,
+        "outside": [],
+        "overflow": [],
+        "width": 390
+      },
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 390,
+        "outside": [],
+        "overflow": [],
+        "width": 844
+      }
+    ],
+    "landing": [
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1366
+      },
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 720,
+        "outside": [],
+        "overflow": [],
+        "width": 1280
+      },
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1024
+      },
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 1024,
+        "outside": [],
+        "overflow": [],
+        "width": 768
+      },
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 844,
+        "outside": [],
+        "overflow": [],
+        "width": 390
+      },
+      {
+        "answerFont": null,
+        "documentOverflow": false,
+        "height": 390,
+        "outside": [],
+        "overflow": [],
+        "width": 844
+      }
+    ],
+    "profileIsolation": true,
+    "levelIsolation": true,
+    "teacherVoice": {
+      "wrongCodeRejected": true,
+      "code259": true,
+      "persistedOff": true,
+      "restoredOn": true
+    },
+    "savedProgressRestored": true,
+    "pictureEnlarge": true,
+    "pictureGallery50": true,
+    "portraitSwitch": true,
+    "nativeExcelExport": true,
+    "testProgressCleared": true
+  },
+  "assets": {
+    "newPictures": 50,
+    "uniquePictures": 50,
+    "diversityRevisions": 25,
+    "allImageHashesMatch": true,
+    "allImagesDecode": true,
+    "localHtmlLinksExist": true,
+    "externalAssetDependencies": 0,
+    "schoolSupplyProfiles": 20,
+    "zipFiles": 0
+  },
+  "excel": {
+    "nativeBrowserExportValidated": true,
+    "sheets": [
+      "Summary",
+      "Progress",
+      "Attempts",
+      "Guide"
+    ],
+    "progressRowsIncludingHeader": 201,
+    "zipIntegrity": true,
+    "allXmlParses": true
+  },
+  "deployment": {
+    "entry": "index.html",
+    "buildRequired": false,
+    "netlifyPublishDirectory": ".",
+    "files": 92,
+    "totalBytes": 15535671
+  },
+  "navigation": {
+    "logic": {
+      "storiesTraversed": 100,
+      "bothLevels": true,
+      "nextVisitsAfterOnSamePicture": true,
+      "bothCorrectRequired": true,
+      "wrongAnswerDoesNotUnlock": true,
+      "storyPickerLocksFuture": true,
+      "reverseOrderReturnsToMissingBefore": true,
+      "resetRequiresBothAgain": true,
+      "savedCompletionRestores": true
+    },
+    "browser": {
+      "flows": [
+        {
+          "level": "A",
+          "beforeTopic": "A little seed",
+          "afterSamePicture": {
+            "topic": "A little seed",
+            "stage": "true",
+            "next": "Finish Before ⏪"
+          },
+          "returnLabel": "Finish Before ⏪",
+          "wrongCannotAdvance": {
+            "disabled": true,
+            "topic": "A little seed"
+          },
+          "bothCorrect": {
+            "button": "Next picture →",
+            "score": "1 / 50 stories",
+            "secondUnlocked": true,
+            "thirdLocked": true
+          },
+          "advancedTopic": "By the sea"
+        },
+        {
+          "level": "AA",
+          "beforeTopic": "A little seed",
+          "afterSamePicture": {
+            "topic": "A little seed",
+            "stage": "true",
+            "next": "Finish Before ⏪"
+          },
+          "returnLabel": "Finish Before ⏪",
+          "wrongCannotAdvance": {
+            "disabled": true,
+            "topic": "A little seed"
+          },
+          "bothCorrect": {
+            "button": "Next picture →",
+            "score": "1 / 50 stories",
+            "secondUnlocked": true,
+            "thirdLocked": true
+          },
+          "advancedTopic": "By the sea"
+        }
+      ],
+      "completedLayouts": [
+        {
+          "answerFont": "26px",
+          "documentOverflow": false,
+          "height": 768,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 649.7396087646484,
+            "height": 469.0729370117187,
+            "left": 31.666667938232425,
+            "right": 674.5937919616699,
+            "top": 180.6666717529297,
+            "width": 642.9271240234375,
+            "x": 31.666667938232425,
+            "y": 180.6666717529297
+          },
+          "width": 1366
+        },
+        {
+          "answerFont": "26px",
+          "documentOverflow": false,
+          "height": 720,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 601.7396087646484,
+            "height": 421.0729370117187,
+            "left": 31.666667938232425,
+            "right": 631.1666679382324,
+            "top": 180.6666717529297,
+            "width": 599.5,
+            "x": 31.666667938232425,
+            "y": 180.6666717529297
+          },
+          "width": 1280
+        },
+        {
+          "answerFont": "23px",
+          "documentOverflow": false,
+          "height": 768,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 652.4375152587891,
+            "height": 471.7708435058594,
+            "left": 31.666667938232425,
+            "right": 501.8958549499512,
+            "top": 180.6666717529297,
+            "width": 470.2291870117187,
+            "x": 31.666667938232425,
+            "y": 180.6666717529297
+          },
+          "width": 1024
+        },
+        {
+          "answerFont": "26px",
+          "documentOverflow": false,
+          "height": 1024,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 0,
+            "height": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          "width": 768
+        },
+        {
+          "answerFont": "20px",
+          "documentOverflow": false,
+          "height": 844,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 0,
+            "height": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          "width": 390
+        },
+        {
+          "answerFont": "17px",
+          "documentOverflow": false,
+          "height": 390,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 316.5833435058594,
+            "height": 195.9166717529297,
+            "left": 18.666667938232425,
+            "right": 371.7604179382324,
+            "top": 120.66667175292967,
+            "width": 353.09375,
+            "x": 18.666667938232425,
+            "y": 120.66667175292967
+          },
+          "width": 844
+        }
+      ],
+      "waitingForAfterLayouts": [
+        {
+          "answerFont": "26px",
+          "documentOverflow": false,
+          "height": 768,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 649.7396087646484,
+            "height": 469.0729370117187,
+            "left": 31.666667938232425,
+            "right": 674.5937919616699,
+            "top": 180.6666717529297,
+            "width": 642.9271240234375,
+            "x": 31.666667938232425,
+            "y": 180.6666717529297
+          },
+          "width": 1366
+        },
+        {
+          "answerFont": "26px",
+          "documentOverflow": false,
+          "height": 720,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 601.7396087646484,
+            "height": 421.0729370117187,
+            "left": 31.666667938232425,
+            "right": 631.1666679382324,
+            "top": 180.6666717529297,
+            "width": 599.5,
+            "x": 31.666667938232425,
+            "y": 180.6666717529297
+          },
+          "width": 1280
+        },
+        {
+          "answerFont": "23px",
+          "documentOverflow": false,
+          "height": 768,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 652.4375152587891,
+            "height": 471.7708435058594,
+            "left": 31.666667938232425,
+            "right": 501.8958549499512,
+            "top": 180.6666717529297,
+            "width": 470.2291870117187,
+            "x": 31.666667938232425,
+            "y": 180.6666717529297
+          },
+          "width": 1024
+        },
+        {
+          "answerFont": "26px",
+          "documentOverflow": false,
+          "height": 1024,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 0,
+            "height": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          "width": 768
+        },
+        {
+          "answerFont": "20px",
+          "documentOverflow": false,
+          "height": 844,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 0,
+            "height": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "width": 0,
+            "x": 0,
+            "y": 0
+          },
+          "width": 390
+        },
+        {
+          "answerFont": "17px",
+          "documentOverflow": false,
+          "height": 390,
+          "outside": [],
+          "overflow": [],
+          "picture": {
+            "bottom": 316.5833435058594,
+            "height": 195.9166717529297,
+            "left": 18.666667938232425,
+            "right": 371.7604179382324,
+            "top": 120.66667175292967,
+            "width": 353.09375,
+            "x": 18.666667938232425,
+            "y": 120.66667175292967
+          },
+          "width": 844
+        }
+      ]
+    },
+    "updated": "2026-10-21"
+  }
+}

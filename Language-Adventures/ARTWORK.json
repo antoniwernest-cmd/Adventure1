@@ -1,0 +1,874 @@
+{
+  "method": "New illustrations generated with the built-in image_gen tool, 19 October 2026. WebP encoding only; no semantic editing.",
+  "pictureCount": 34,
+  "pictures": [
+    {
+      "id": "rain-cover",
+      "title": "Keeping the tent dry",
+      "refs": [
+        "a1"
+      ],
+      "scene": "Maya, a brown-skinned girl with two braids, and Ben, a fair-skinned boy with curly red hair, pull a waterproof teal rain cover tightly over an orange tent. Secure pegs and taut ropes are visible. Bedding remains dry inside the tent. A light rain shower falls in the woodland clearing.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Maya, a brown-skinned girl with two braids, and Ben, a fair-skinned boy with curly red hair, pull a waterproof teal rain cover tightly over an orange tent. Secure pegs and taut ropes are visible. Bedding remains dry inside the tent. A light rain shower falls in the woodland clearing. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/rain-cover.webp",
+      "sha256": "bd9e0b6a2d92ab4c3803640114c7b6694825332a932ed82e7245a897d7337813",
+      "games": [
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-01",
+        "pronoun-AA-01",
+        "paragraph-A-01",
+        "paragraph-AA-01",
+        "meaning-A-12",
+        "meaning-AA-12"
+      ]
+    },
+    {
+      "id": "classroom-writing",
+      "title": "Ready to write",
+      "refs": [
+        "a4"
+      ],
+      "scene": "Lina, an East Asian girl in a mustard cardigan, sits at a clear classroom desk. Her open notebook and pencil are prominent as she begins writing. A closed schoolbag is beside the desk. Unreadable small pencil marks only, no printed words.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Lina, an East Asian girl in a mustard cardigan, sits at a clear classroom desk. Her open notebook and pencil are prominent as she begins writing. A closed schoolbag is beside the desk. Unreadable small pencil marks only, no printed words. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/classroom-writing.webp",
+      "sha256": "87626be7bfeda1f67cd9714114b02a61c60ecbaf622b49126efd86954461e447",
+      "games": [
+        "homophone",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-02",
+        "pronoun-AA-02",
+        "homophone-A-01",
+        "homophone-A-13",
+        "homophone-AA-01",
+        "homophone-AA-13",
+        "paragraph-A-03",
+        "paragraph-AA-03"
+      ]
+    },
+    {
+      "id": "trail-map",
+      "title": "A pause on the trail",
+      "refs": [
+        "a3",
+        "a23",
+        "a43"
+      ],
+      "scene": "Two young hikers rest on a fallen log in the shelter of a large rock beside a woodland trail. A girl with dark curly hair points along a clear route on an unfolded map while a blond boy holds binoculars. Water bottles and backpacks rest beside them. A small deer is far away on the hillside. The rock shelters them from the breeze.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Two young hikers rest on a fallen log in the shelter of a large rock beside a woodland trail. A girl with dark curly hair points along a clear route on an unfolded map while a blond boy holds binoculars. Water bottles and backpacks rest beside them. A small deer is far away on the hillside. The rock shelters them from the breeze. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/trail-map.webp",
+      "sha256": "35f20df6b5154bd2d8ad446045ef0e2ca306b7c61d480a5731825634ce62dd92",
+      "games": [
+        "homophone",
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-03",
+        "pronoun-AA-03",
+        "homophone-A-06",
+        "homophone-A-12",
+        "homophone-A-14",
+        "homophone-AA-06",
+        "homophone-AA-12",
+        "homophone-AA-14",
+        "paragraph-A-02",
+        "paragraph-A-21",
+        "paragraph-AA-02",
+        "paragraph-AA-21",
+        "meaning-A-02",
+        "meaning-A-11",
+        "meaning-A-22",
+        "meaning-AA-02",
+        "meaning-AA-11",
+        "meaning-AA-22"
+      ]
+    },
+    {
+      "id": "kite-field",
+      "title": "A windy kite afternoon",
+      "refs": [
+        "a7",
+        "a27",
+        "a47",
+        "a67"
+      ],
+      "scene": "Asha, a South Asian girl in a coral jacket, and Jamal, a Black boy in teal trousers, share a reel of string in a broad grassy field. Their colourful diamond kite is visibly airborne above them with its string connected to the reel. A small picnic basket and folded blanket sit off to one side. Breezy clouds and open space.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Asha, a South Asian girl in a coral jacket, and Jamal, a Black boy in teal trousers, share a reel of string in a broad grassy field. Their colourful diamond kite is visibly airborne above them with its string connected to the reel. A small picnic basket and folded blanket sit off to one side. Breezy clouds and open space. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/kite-field.webp",
+      "sha256": "16287e7af669020b3716765df7ade04baabab1a57418b15d731e4a8bd905938c",
+      "games": [
+        "homophone",
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-04",
+        "pronoun-A-21",
+        "pronoun-AA-04",
+        "pronoun-AA-21",
+        "homophone-A-02",
+        "homophone-A-18",
+        "homophone-A-23",
+        "homophone-AA-02",
+        "homophone-AA-18",
+        "homophone-AA-23",
+        "paragraph-A-05",
+        "paragraph-AA-05",
+        "meaning-A-26",
+        "meaning-AA-26"
+      ]
+    },
+    {
+      "id": "park-picnic",
+      "title": "Sharing a park picnic",
+      "refs": [
+        "a8",
+        "a28"
+      ],
+      "scene": "Two friends, a girl with light-brown skin and glasses and a boy with black hair, sit on a clearly spread yellow picnic blanket in a green park. A woven picnic basket sits between their bags. Lunch containers and apple slices are on the blanket. A level grassy patch beside a broad park path.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Two friends, a girl with light-brown skin and glasses and a boy with black hair, sit on a clearly spread yellow picnic blanket in a green park. A woven picnic basket sits between their bags. Lunch containers and apple slices are on the blanket. A level grassy patch beside a broad park path. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/park-picnic.webp",
+      "sha256": "9607bf666a49cdce16f35aab3ba086d9fe155245449d8b6c47807adb0c406bcd",
+      "games": [
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-05",
+        "pronoun-A-22",
+        "pronoun-AA-05",
+        "pronoun-AA-22",
+        "paragraph-A-06",
+        "paragraph-AA-06"
+      ]
+    },
+    {
+      "id": "sailing-ropes",
+      "title": "Preparing to sail",
+      "refs": [
+        "a9"
+      ],
+      "scene": "An adult male sailing instructor checks neatly coiled ropes on a small training sailboat beside a sheltered marina dock. Two children in properly fastened life jackets watch attentively. The boat has a prominent pale sail, a safe simple hull and tidy rigging. Calm harbour water and distant colourful boats.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: An adult male sailing instructor checks neatly coiled ropes on a small training sailboat beside a sheltered marina dock. Two children in properly fastened life jackets watch attentively. The boat has a prominent pale sail, a safe simple hull and tidy rigging. Calm harbour water and distant colourful boats. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/sailing-ropes.webp",
+      "sha256": "7b3a9613fcc7b23a6912a0fbbf6979b8f76b8c9d5fe3043110250f928ee6846b",
+      "games": [
+        "homophone",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-06",
+        "pronoun-AA-06",
+        "homophone-A-21",
+        "homophone-AA-21",
+        "paragraph-A-07",
+        "paragraph-AA-07"
+      ]
+    },
+    {
+      "id": "garden-helpers",
+      "title": "Caring for the garden",
+      "refs": [
+        "a11",
+        "a31"
+      ],
+      "scene": "Sofia, a Latina girl with a dark ponytail, kneels beside a raised vegetable bed. She gently pulls a weed and drops it into a small blue bucket beside her. Neat rows of young vegetables are visible. A bee visits a yellow flower at the edge of the bed, clearly separate from Sofia's hands.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Sofia, a Latina girl with a dark ponytail, kneels beside a raised vegetable bed. She gently pulls a weed and drops it into a small blue bucket beside her. Neat rows of young vegetables are visible. A bee visits a yellow flower at the edge of the bed, clearly separate from Sofia's hands. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/garden-helpers.webp",
+      "sha256": "bb823d08bb9a552742e37934d465ead11dc7aa40db781e4d81dcd862ff52b510",
+      "games": [
+        "homophone",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-07",
+        "pronoun-AA-07",
+        "homophone-A-16",
+        "homophone-A-24",
+        "homophone-AA-16",
+        "homophone-AA-24",
+        "paragraph-A-09",
+        "paragraph-AA-09"
+      ]
+    },
+    {
+      "id": "baking-together",
+      "title": "Taking turns with the batter",
+      "refs": [
+        "a12",
+        "a32"
+      ],
+      "scene": "Mila, a girl with short dark curls, wears a clean yellow apron and gently stirs cake batter with a wooden spoon. An adult baker with brown skin and a teal apron steadies the bowl at a child-height kitchen counter. Another child waits with a small jug. The large bowl holds enough batter for a nearby empty cake tin.",
+      "prompt": "Use case: illustration-story. Make a single landscape 3:2, warm and friendly 3D storybook illustration for an elementary school reading activity. Mila, a girl with short dark curls, wears a clean yellow apron and gently stirs cake batter with a wooden spoon. An adult baker with brown skin and a teal apron steadies the bowl at a child-height kitchen counter. Another child waits with a small jug. The large bowl holds enough batter for a nearby empty cake tin. Natural anatomy, complete coherent scene, clear ordinary actions. No writing, labels, captions, logos or watermark.",
+      "file": "assets/illustrations/baking-together.webp",
+      "sha256": "bd666e63e33822ec52ff6e13ceeaddd262153f6178d5d8222adff1c556411215",
+      "games": [
+        "homophone",
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-08",
+        "pronoun-A-24",
+        "pronoun-AA-08",
+        "pronoun-AA-24",
+        "homophone-A-15",
+        "homophone-AA-15",
+        "paragraph-A-10",
+        "paragraph-A-20",
+        "paragraph-AA-10",
+        "paragraph-AA-20",
+        "meaning-A-05",
+        "meaning-A-19",
+        "meaning-AA-05",
+        "meaning-AA-19"
+      ]
+    },
+    {
+      "id": "science-tray",
+      "title": "A tidy experiment",
+      "refs": [
+        "a13"
+      ],
+      "scene": "Ruby, a fair-skinned girl with auburn hair, and Min, an East Asian boy with glasses, share a classroom science table. Wearing safety goggles, they pour water between clear cups above a shallow tray. A few drops land in the tray, keeping the surrounding table dry. Friendly teacher in the background.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Ruby, a fair-skinned girl with auburn hair, and Min, an East Asian boy with glasses, share a classroom science table. Wearing safety goggles, they pour water between clear cups above a shallow tray. A few drops land in the tray, keeping the surrounding table dry. Friendly teacher in the background. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/science-tray.webp",
+      "sha256": "dd94ced27dab1d8f3519d7dd43ecb14aa16d0eef05d9d0fbbc81d119e6093a9e",
+      "games": [
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-09",
+        "pronoun-AA-09",
+        "paragraph-A-11",
+        "paragraph-AA-11"
+      ]
+    },
+    {
+      "id": "snow-ready",
+      "title": "Ready for a snowy walk",
+      "refs": [
+        "a14",
+        "a34"
+      ],
+      "scene": "Kwame, a Black boy in a blue winter coat, carries a small red sled along a snowy path toward a gentle hill. His friend wears a purple coat. Both children have warm hats, thick gloves and snow boots; the gloves and sled are clearly visible. Sunny winter park.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Kwame, a Black boy in a blue winter coat, carries a small red sled along a snowy path toward a gentle hill. His friend wears a purple coat. Both children have warm hats, thick gloves and snow boots; the gloves and sled are clearly visible. Sunny winter park. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/snow-ready.webp",
+      "sha256": "35e446bf7a926c0b8f1c57e06e93cfb1882cdf29773cde6b23fb9fd7871970d2",
+      "games": [
+        "homophone",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-10",
+        "pronoun-A-25",
+        "pronoun-AA-10",
+        "pronoun-AA-25",
+        "homophone-A-28",
+        "homophone-AA-28",
+        "paragraph-A-12",
+        "paragraph-AA-12"
+      ]
+    },
+    {
+      "id": "sandcastle-team",
+      "title": "Building a sandcastle",
+      "refs": [
+        "a15"
+      ],
+      "scene": "Mei, an East Asian girl with straight black hair and a sun hat, carries two small buckets full of damp sand toward a sandcastle. Her friend shapes a castle wall nearby. Gentle sea in the background, sunny beach, sensible sun protection and an adult supervising from nearby.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Mei, an East Asian girl with straight black hair and a sun hat, carries two small buckets full of damp sand toward a sandcastle. Her friend shapes a castle wall nearby. Gentle sea in the background, sunny beach, sensible sun protection and an adult supervising from nearby. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/sandcastle-team.webp",
+      "sha256": "115804e7a5d8bc0d7ed39ef1934ae8faceb9ff50f7f07cdbcab99000d9cbe9c8",
+      "games": [
+        "homophone",
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-11",
+        "pronoun-AA-11",
+        "homophone-A-11",
+        "homophone-A-30",
+        "homophone-AA-11",
+        "homophone-AA-30",
+        "paragraph-A-13",
+        "paragraph-AA-13",
+        "meaning-A-09",
+        "meaning-AA-09"
+      ]
+    },
+    {
+      "id": "station-visit",
+      "title": "Waiting for the train",
+      "refs": [
+        "a16",
+        "a36",
+        "a56"
+      ],
+      "scene": "A family waits together well behind the safety line on a railway platform. An adult conductor checks a child's plain ticket in the foreground while a bright passenger train approaches around a distant curve. Clear safe platform edge and coherent rails. No readable signs, numbers or ticket print.",
+      "prompt": "Use case: illustration-story. Make a single landscape 3:2, warm and friendly 3D storybook illustration for an elementary school reading activity. A family waits together well behind the safety line on a railway platform. An adult conductor checks a child's plain ticket in the foreground while a bright passenger train approaches around a distant curve. Clear safe platform edge and coherent rails. No readable signs, numbers or ticket print. Natural anatomy, complete coherent scene, clear ordinary actions. No writing, labels, captions, logos or watermark.",
+      "file": "assets/illustrations/station-visit.webp",
+      "sha256": "722a78d0e56b0917856f3423d8dcfcf2080a73c4406fbdc262d724b3d462bab4",
+      "games": [
+        "homophone",
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-12",
+        "pronoun-AA-12",
+        "homophone-A-09",
+        "homophone-AA-09",
+        "paragraph-A-14",
+        "paragraph-AA-14",
+        "meaning-A-17",
+        "meaning-A-18",
+        "meaning-AA-17",
+        "meaning-AA-18"
+      ]
+    },
+    {
+      "id": "dog-water",
+      "title": "Fresh water for a dog",
+      "refs": [
+        "a17"
+      ],
+      "scene": "A child with a tan complexion pours fresh water from a small jug into a nearly full metal dog bowl on a shady garden path. A happy golden dog stands beside the bowl with its tongue out, ready for a drink. A coiled lead and closed garden gate appear behind them.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: A child with a tan complexion pours fresh water from a small jug into a nearly full metal dog bowl on a shady garden path. A happy golden dog stands beside the bowl with its tongue out, ready for a drink. A coiled lead and closed garden gate appear behind them. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/dog-water.webp",
+      "sha256": "b110c16e12766a587c1cf7899417ef30607526b9f8c7575dabfb4e619727e3af",
+      "games": [
+        "homophone",
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-13",
+        "pronoun-AA-13",
+        "homophone-A-20",
+        "homophone-AA-20",
+        "paragraph-A-15",
+        "paragraph-AA-15",
+        "meaning-A-27",
+        "meaning-AA-27"
+      ]
+    },
+    {
+      "id": "football-team",
+      "title": "A quick team pass",
+      "refs": [
+        "a18",
+        "a38"
+      ],
+      "scene": "Coach Lee, an adult woman with short dark hair, watches children practise passing a football on a school field. One boy moves quickly to meet the ball while another child has just passed it. Clear football movement and safe spacing. A small group listens near the touchline.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Coach Lee, an adult woman with short dark hair, watches children practise passing a football on a school field. One boy moves quickly to meet the ball while another child has just passed it. Clear football movement and safe spacing. A small group listens near the touchline. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/football-team.webp",
+      "sha256": "3efb769ea07fa03fa6fc25d406750a317d5216513864c9911e55d1cb3204f069",
+      "games": [
+        "homophone",
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-14",
+        "pronoun-AA-14",
+        "homophone-A-08",
+        "homophone-AA-08",
+        "paragraph-A-16",
+        "paragraph-AA-16",
+        "meaning-A-23",
+        "meaning-AA-23"
+      ]
+    },
+    {
+      "id": "library-friends",
+      "title": "A quiet book to share",
+      "refs": [
+        "a19",
+        "a59"
+      ],
+      "scene": "Sofia, a girl with medium-brown skin and a green cardigan, chooses a book with a colourful picture-only cover and places it on a clear library table. A friend wearing a lavender hijab reads quietly beside her. Warm low shelves, a calm reading nook and no readable lettering on spines or pages.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Sofia, a girl with medium-brown skin and a green cardigan, chooses a book with a colourful picture-only cover and places it on a clear library table. A friend wearing a lavender hijab reads quietly beside her. Warm low shelves, a calm reading nook and no readable lettering on spines or pages. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/library-friends.webp",
+      "sha256": "a5450f92b4d8ec05152ce2b379faeb21b32c459bcbb29ae2890fed65b106bd2c",
+      "games": [
+        "homophone",
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-15",
+        "pronoun-AA-15",
+        "homophone-A-05",
+        "homophone-A-27",
+        "homophone-A-29",
+        "homophone-AA-05",
+        "homophone-AA-27",
+        "homophone-AA-29",
+        "paragraph-A-17",
+        "paragraph-A-23",
+        "paragraph-AA-17",
+        "paragraph-AA-23",
+        "meaning-A-30",
+        "meaning-AA-30"
+      ]
+    },
+    {
+      "id": "measuring-board",
+      "title": "Building with care",
+      "refs": [
+        "a20"
+      ],
+      "scene": "An adult builder steadies a sturdy long wooden board flat on a low workbench while two children carefully measure it with a tape measure. All wear safety glasses. A small partly built treehouse appears safely at ground level behind them. No power tools in use, no readable measurements.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: An adult builder steadies a sturdy long wooden board flat on a low workbench while two children carefully measure it with a tape measure. All wear safety glasses. A small partly built treehouse appears safely at ground level behind them. No power tools in use, no readable measurements. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/measuring-board.webp",
+      "sha256": "72b43a1354881b2f378779c3cf662c5c32da323b4fda84458fa397bdb6330534",
+      "games": [
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-16",
+        "pronoun-AA-16",
+        "paragraph-A-18",
+        "paragraph-AA-18",
+        "meaning-A-06",
+        "meaning-AA-06"
+      ]
+    },
+    {
+      "id": "night-camp",
+      "title": "Together after sunset",
+      "refs": [
+        "a21"
+      ],
+      "scene": "A small supervised group of young hikers stays together beside their campsite at dusk. A girl uses a torch to illuminate the woodland path, and a boy points toward their glowing tent. The adult guide is close beside them. A gentle moon and stars above; warm, reassuring night scene.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: A small supervised group of young hikers stays together beside their campsite at dusk. A girl uses a torch to illuminate the woodland path, and a boy points toward their glowing tent. The adult guide is close beside them. A gentle moon and stars above; warm, reassuring night scene. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/night-camp.webp",
+      "sha256": "4ba6a5b32ebe775c901cf78298534b14b2867b9096786d03e364d3decfcf48e5",
+      "games": [
+        "homophone",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-17",
+        "pronoun-AA-17",
+        "homophone-A-22",
+        "homophone-AA-22"
+      ]
+    },
+    {
+      "id": "skateboard-turn",
+      "title": "Waiting for a skateboard turn",
+      "refs": [
+        "a22",
+        "a62",
+        "a2"
+      ],
+      "scene": "Finn, a boy with freckles and brown curls, points to his skateboard beside a low beginners' ramp. His friend waits patiently behind the marked practice area as an adult instructor demonstrates a safe stance on another board. Every rider wears a correctly fastened helmet, wrist guards and knee pads.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Finn, a boy with freckles and brown curls, points to his skateboard beside a low beginners' ramp. His friend waits patiently behind the marked practice area as an adult instructor demonstrates a safe stance on another board. Every rider wears a correctly fastened helmet, wrist guards and knee pads. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/skateboard-turn.webp",
+      "sha256": "d51802dafb20f40846690f54c99de377bc3424c01d987dd85a6d80bcbe13d581",
+      "games": [
+        "homophone",
+        "meaning",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-18",
+        "pronoun-AA-18",
+        "homophone-A-17",
+        "homophone-AA-17",
+        "meaning-A-08",
+        "meaning-A-14",
+        "meaning-AA-08",
+        "meaning-AA-14"
+      ]
+    },
+    {
+      "id": "model-bridge",
+      "title": "Careful bridge builders",
+      "refs": [
+        "a24"
+      ],
+      "scene": "Lina, an East Asian girl with a yellow top, and Andre, a Black boy in a blue jumper, carefully align craft sticks to make a small model bridge on their classroom table. Their completed bridge spans two supports. A ruler, child-safe glue and a few spare sticks lie neatly nearby.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Lina, an East Asian girl with a yellow top, and Andre, a Black boy in a blue jumper, carefully align craft sticks to make a small model bridge on their classroom table. Their completed bridge spans two supports. A ruler, child-safe glue and a few spare sticks lie neatly nearby. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/model-bridge.webp",
+      "sha256": "65868ad9e60e8c3921a4fa6b9f8d8c4f12c4148bf407e8208012a11b1b25de08",
+      "games": [
+        "homophone",
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-19",
+        "pronoun-AA-19",
+        "homophone-A-04",
+        "homophone-A-19",
+        "homophone-AA-04",
+        "homophone-AA-19",
+        "paragraph-A-19",
+        "paragraph-AA-19",
+        "meaning-A-01",
+        "meaning-AA-01"
+      ]
+    },
+    {
+      "id": "bicycle-practice",
+      "title": "A safe bicycle ride",
+      "refs": [
+        "a5",
+        "a25",
+        "a65",
+        "a85"
+      ],
+      "scene": "A young girl with brown skin checks her correctly fitted and fastened bicycle helmet beside a bicycle on a smooth traffic-free park path. An adult instructor crouches beside her to check the chin strap. A second child balances on a bicycle in the background. Closed shoes and sensible cycling safety.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: A young girl with brown skin checks her correctly fitted and fastened bicycle helmet beside a bicycle on a smooth traffic-free park path. An adult instructor crouches beside her to check the chin strap. A second child balances on a bicycle in the background. Closed shoes and sensible cycling safety. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/bicycle-practice.webp",
+      "sha256": "5f1a08e2cd23893979ab37d14ba6f221f411198f6a369c5724f7ecc3ab755db7",
+      "games": [
+        "homophone",
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-20",
+        "pronoun-AA-20",
+        "homophone-A-07",
+        "homophone-A-25",
+        "homophone-A-26",
+        "homophone-AA-07",
+        "homophone-AA-25",
+        "homophone-AA-26",
+        "paragraph-A-04",
+        "paragraph-AA-04",
+        "meaning-A-24",
+        "meaning-A-28",
+        "meaning-AA-24",
+        "meaning-AA-28"
+      ]
+    },
+    {
+      "id": "life-jacket-check",
+      "title": "Checking every buckle",
+      "refs": [
+        "a29"
+      ],
+      "scene": "An adult female sailing instructor in a navy jacket gently tightens a loose life-jacket strap on a child before boarding a small boat. Show the fitted life jacket and closed buckle prominently. Another child waits wearing a properly fastened life jacket. Calm marina dock, safely away from the edge.",
+      "prompt": "Use case: illustration-story. Make a single landscape 3:2, warm and friendly 3D storybook illustration for an elementary school reading activity. An adult female sailing instructor in a navy jacket gently tightens a loose life-jacket strap on a child before boarding a small boat. Show the fitted life jacket and closed buckle prominently. Another child waits wearing a properly fastened life jacket. Calm marina dock, safely away from the edge. Natural anatomy, complete coherent scene, clear ordinary actions. No writing, labels, captions, logos or watermark.",
+      "file": "assets/illustrations/life-jacket-check.webp",
+      "sha256": "bf456a2c695cbd33e92e74f864482bdc353f370c061dedde52e434a1929b452f",
+      "games": [
+        "meaning",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-23",
+        "pronoun-AA-23",
+        "meaning-A-10",
+        "meaning-AA-10"
+      ]
+    },
+    {
+      "id": "rock-pools",
+      "title": "Looking after rock pools",
+      "refs": [
+        "a35"
+      ],
+      "scene": "Two children crouch beside shallow seawater pools between flat coastal rocks at low tide. They look closely at a tiny crab and shells without touching or disturbing them. An attentive adult guide is beside them. Non-slip shoes, stable rock surfaces and gentle daylight.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Two children crouch beside shallow seawater pools between flat coastal rocks at low tide. They look closely at a tiny crab and shells without touching or disturbing them. An attentive adult guide is beside them. Non-slip shoes, stable rock surfaces and gentle daylight. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/rock-pools.webp",
+      "sha256": "d4a98b455f14fb1777e446d9c20df9c8d73839388ecdb3d463f8afaccf84e338",
+      "games": [
+        "meaning",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-26",
+        "pronoun-AA-26",
+        "meaning-A-29",
+        "meaning-AA-29"
+      ]
+    },
+    {
+      "id": "robot-partners",
+      "title": "Robot success",
+      "refs": [
+        "b1"
+      ],
+      "scene": "Nia, a Black girl with braided hair, and Arjun, a South Asian boy with glasses, check their small wheeled classroom robot on a table. Arjun reconnects a loose low-voltage plug while Nia watches a green indicator light glow. A delighted teacher stands behind. No exposed mains wiring, no labels.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Nia, a Black girl with braided hair, and Arjun, a South Asian boy with glasses, check their small wheeled classroom robot on a table. Arjun reconnects a loose low-voltage plug while Nia watches a green indicator light glow. A delighted teacher stands behind. No exposed mains wiring, no labels. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/robot-partners.webp",
+      "sha256": "bab2fea7d3cbfbaf4f0142a81a372b22d83d283906dc779a9da8b69e46c84497",
+      "games": [
+        "meaning",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-27",
+        "pronoun-AA-27",
+        "paragraph-A-25",
+        "paragraph-AA-25",
+        "meaning-A-20",
+        "meaning-AA-20"
+      ]
+    },
+    {
+      "id": "paper-gliders",
+      "title": "Testing paper gliders",
+      "refs": [
+        "b2"
+      ],
+      "scene": "Ben, a red-haired boy, and Maya, a girl with dark braids, test two plain paper gliders on an open grassy lawn. One glider has drifted gently into a low bush while the other rests in Maya's hand. Ben walks toward the bush to retrieve the glider. A coherent outdoor scene with both gliders easy to see.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Ben, a red-haired boy, and Maya, a girl with dark braids, test two plain paper gliders on an open grassy lawn. One glider has drifted gently into a low bush while the other rests in Maya's hand. Ben walks toward the bush to retrieve the glider. A coherent outdoor scene with both gliders easy to see. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/paper-gliders.webp",
+      "sha256": "e5f8aee7605a7e34d0e65870b8ad8ea8dbe00506f0f9537895dc0102b7df76a1",
+      "games": [
+        "homophone",
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-28",
+        "pronoun-AA-28",
+        "homophone-A-03",
+        "homophone-AA-03",
+        "paragraph-A-26",
+        "paragraph-AA-26"
+      ]
+    },
+    {
+      "id": "museum-fossil",
+      "title": "Learning at the museum",
+      "refs": [
+        "b8"
+      ],
+      "scene": "An adult museum guide shows a large spiral fossil in a low glass display case to a small group of fascinated children. One child uses a manual wheelchair and has a clear view beside the other visitors. A skeleton exhibit is softly visible behind them. No labels or readable signage.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: An adult museum guide shows a large spiral fossil in a low glass display case to a small group of fascinated children. One child uses a manual wheelchair and has a clear view beside the other visitors. A skeleton exhibit is softly visible behind them. No labels or readable signage. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/museum-fossil.webp",
+      "sha256": "8dc8ef94ada0a9b4c49080372edf3dc69839db8790665638e570c98920238580",
+      "games": [
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-29",
+        "pronoun-AA-29",
+        "paragraph-A-29",
+        "paragraph-AA-29"
+      ]
+    },
+    {
+      "id": "space-club",
+      "title": "Exploring the planets",
+      "refs": [
+        "b10"
+      ],
+      "scene": "A diverse group of three children in an after-school space club gathers around a tabletop solar-system model. They point to small colourful planets attached to thin supports around a large central sun. Warm classroom, thoughtful curious expressions, no printed labels or floating text.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: A diverse group of three children in an after-school space club gathers around a tabletop solar-system model. They point to small colourful planets attached to thin supports around a large central sun. Warm classroom, thoughtful curious expressions, no printed labels or floating text. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/space-club.webp",
+      "sha256": "0f14b64671febea5c109e53580dbb19b610aa55b6a56deeb9069d66157ecf350",
+      "games": [
+        "paragraph",
+        "pronoun"
+      ],
+      "questions": [
+        "pronoun-A-30",
+        "pronoun-AA-30",
+        "paragraph-A-30",
+        "paragraph-AA-30"
+      ]
+    },
+    {
+      "id": "jeep-trail",
+      "title": "Along a rough track",
+      "refs": [
+        "a6",
+        "a26"
+      ],
+      "scene": "A family pauses in a stationary open-top safari jeep on a rough stony woodland track. The child in the back seat touches the smooth padded seat beside them; all occupants wear correctly fastened seat belts. An adult driver holds a map at the meeting point. No traffic danger, no readable plate or signs.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: A family pauses in a stationary open-top safari jeep on a rough stony woodland track. The child in the back seat touches the smooth padded seat beside them; all occupants wear correctly fastened seat belts. An adult driver holds a map at the meeting point. No traffic danger, no readable plate or signs. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/jeep-trail.webp",
+      "sha256": "a504ee1ffe479e4a85521c250a56f4518bf0450bb8a227dd8b31a075b37ea81d",
+      "games": [
+        "homophone",
+        "meaning"
+      ],
+      "questions": [
+        "homophone-A-10",
+        "homophone-AA-10",
+        "meaning-A-16",
+        "meaning-A-25",
+        "meaning-AA-16",
+        "meaning-AA-25"
+      ]
+    },
+    {
+      "id": "shallow-dive",
+      "title": "A shallow diving lesson",
+      "refs": [
+        "a10"
+      ],
+      "scene": "An adult scuba instructor supervises two children during a beginner lesson in clear shallow water above a sandy seabed. All have coherent fitted scuba gear, masks, regulators and air tanks. Sunlight reaches the visible bottom. Calm close supervision, no animals touched and no deep-water danger.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: An adult scuba instructor supervises two children during a beginner lesson in clear shallow water above a sandy seabed. All have coherent fitted scuba gear, masks, regulators and air tanks. Sunlight reaches the visible bottom. Calm close supervision, no animals touched and no deep-water danger. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/shallow-dive.webp",
+      "sha256": "3c83d8e90fe10423e99c7a2620b9922191e724eb12229807dca199f4408d9fe2",
+      "games": [
+        "meaning",
+        "paragraph"
+      ],
+      "questions": [
+        "paragraph-A-08",
+        "paragraph-AA-08",
+        "meaning-A-03",
+        "meaning-AA-03"
+      ]
+    },
+    {
+      "id": "snowman",
+      "title": "A giant snowball",
+      "refs": [
+        "a54"
+      ],
+      "scene": "Two children in warm coats, gloves and boots roll a very large snowball across level snow to build a snowman. A smaller ball waits nearby, with a carrot and two plain pebbles in a basket. The giant lower ball is clearly much larger than their smaller snowballs. Joyful sunny winter park.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Two children in warm coats, gloves and boots roll a very large snowball across level snow to build a snowman. A smaller ball waits nearby, with a carrot and two plain pebbles in a basket. The giant lower ball is clearly much larger than their smaller snowballs. Joyful sunny winter park. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/snowman.webp",
+      "sha256": "4142d7559af2f036796f1e1bd000472ce81a641e69954d6297ae4a2338d1b746",
+      "games": [
+        "meaning",
+        "paragraph"
+      ],
+      "questions": [
+        "paragraph-A-22",
+        "paragraph-AA-22",
+        "meaning-A-07",
+        "meaning-AA-07"
+      ]
+    },
+    {
+      "id": "leaf-study",
+      "title": "A closer look at a leaf",
+      "refs": [
+        "a73",
+        "b53"
+      ],
+      "scene": "Two children study a green leaf at a classroom light table. One child holds a magnifying glass over the leaf's clearly visible veins; the other holds a transparent plastic sheet partly across the leaf so it remains visible through the clear material. Careful natural hand poses, a simple uncluttered science table.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Two children study a green leaf at a classroom light table. One child holds a magnifying glass over the leaf's clearly visible veins; the other holds a transparent plastic sheet partly across the leaf so it remains visible through the clear material. Careful natural hand poses, a simple uncluttered science table. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/leaf-study.webp",
+      "sha256": "6102f9644c039e008f775bb300ca090ea98fd0b0fe5ce9b29bac58ae2b871154",
+      "games": [
+        "meaning",
+        "paragraph"
+      ],
+      "questions": [
+        "paragraph-A-24",
+        "paragraph-AA-24",
+        "meaning-A-13",
+        "meaning-A-15",
+        "meaning-AA-13",
+        "meaning-AA-15"
+      ]
+    },
+    {
+      "id": "basketball-pass",
+      "title": "Ready for a pass",
+      "refs": [
+        "b4"
+      ],
+      "scene": "Two children practise a basketball chest pass on an outdoor court. One girl stands ready with bent knees and open hands while a boy gently passes the basketball toward her. A female coach supervises nearby. Realistic readable body positions, one ball and safe spacing.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: Two children practise a basketball chest pass on an outdoor court. One girl stands ready with bent knees and open hands while a boy gently passes the basketball toward her. A female coach supervises nearby. Realistic readable body positions, one ball and safe spacing. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/basketball-pass.webp",
+      "sha256": "dabccb8f41b7f9fd2f78d9165d45492017f2c23004cf170f75dae0ad2ceca42e",
+      "games": [
+        "paragraph"
+      ],
+      "questions": [
+        "paragraph-A-27",
+        "paragraph-AA-27"
+      ]
+    },
+    {
+      "id": "pony-care",
+      "title": "Caring for a pony",
+      "refs": [
+        "b5"
+      ],
+      "scene": "Priya, a South Asian girl wearing a fitted riding helmet and closed riding boots, gently brushes a calm brown pony's bare back in a stable aisle. An adult instructor holds the pony's lead rope. A saddle waits separately on a stand, clearly not yet on the pony. Warm calm light.",
+      "prompt": "Use case: illustration-story. Make a single landscape 3:2, warm and friendly 3D storybook illustration for an elementary school reading activity. Priya, a South Asian girl wearing a fitted riding helmet and closed riding boots, gently brushes a calm brown pony's bare back in a stable aisle. An adult instructor holds the pony's lead rope. A saddle waits separately on a stand, clearly not yet on the pony. Warm calm light. Natural anatomy, complete coherent scene, clear ordinary actions. No writing, labels, captions, logos or watermark.",
+      "file": "assets/illustrations/pony-care.webp",
+      "sha256": "f6990f4f627c91ba0570cf9fed80532970d5c1b0a190c0adc4e4aae3f305c2d4",
+      "games": [
+        "paragraph"
+      ],
+      "questions": [
+        "paragraph-A-28",
+        "paragraph-AA-28"
+      ]
+    },
+    {
+      "id": "wet-towel",
+      "title": "A wet towel at camp",
+      "refs": [
+        "a61"
+      ],
+      "scene": "A child at a sunny woodland campsite lifts a visibly wet towel from a washing bowl. Water drips from the towel onto the grass as a second child points to a nearby drying line. A tent and a small wash station in the background, one clear everyday action.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: A child at a sunny woodland campsite lifts a visibly wet towel from a washing bowl. Water drips from the towel onto the grass as a second child points to a nearby drying line. A tent and a small wash station in the background, one clear everyday action. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/wet-towel.webp",
+      "sha256": "fd04818a566dfab0dac3287b3244324e5f2993aea2d5ae2b776e811cbc1ca0dd",
+      "games": [
+        "meaning"
+      ],
+      "questions": [
+        "meaning-A-04",
+        "meaning-AA-04"
+      ]
+    },
+    {
+      "id": "glider-box",
+      "title": "A glider that will not fit",
+      "refs": [
+        "b52"
+      ],
+      "scene": "At a classroom craft table a child tries to place a broad paper glider into a long narrow open cardboard box. The glider's wings visibly extend beyond both sides of the box, making the box clearly too narrow. A friend compares the wingspan and box opening. Do not bend, squash or damage the glider.",
+      "prompt": "Use case: illustration-story. Asset type: a new story picture for Language Adventures, an elementary literacy website. Create ONE original landscape 3:2 illustration. Style: polished warm 3D storybook animation, rounded expressive characters aged 7–10, tactile cloth and natural materials, gentle daylight, balanced aqua, apricot, sage and lilac accents. Scene: At a classroom craft table a child tries to place a broad paper glider into a long narrow open cardboard box. The glider's wings visibly extend beyond both sides of the box, making the box clearly too narrow. A friend compares the wingspan and box opening. Do not bend, squash or damage the glider. Composition: one coherent scene, medium-wide framing, clear focal action and easily readable objects; important details fully inside the frame. No collage, split panels, written text, letters, numbers, labels, logos or watermark. Anatomically coherent people and equipment. The image is a scene children can talk about, never a screenshot or worksheet.",
+      "file": "assets/illustrations/glider-box.webp",
+      "sha256": "ad397dd19495a914b253c4fe85223ed34441072d5e17d3c0832b142669c7c09f",
+      "games": [
+        "meaning"
+      ],
+      "questions": [
+        "meaning-A-21",
+        "meaning-AA-21"
+      ]
+    }
+  ],
+  "reusedInterfaceAssets": [
+    "assets/magic-cat.png",
+    "assets/balloon.png",
+    "assets/supplies/*.svg"
+  ]
+}

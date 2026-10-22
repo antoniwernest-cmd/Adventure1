@@ -1,0 +1,579 @@
+{
+  "runtime": {
+    "scriptsParsed": 39,
+    "families": 5,
+    "landingActivities": 8,
+    "sharedPictureIDs": 20,
+    "galleryPictures": 284,
+    "letterPicturesReused": 50,
+    "lettersPerLevel": 50,
+    "A_bodySentences": 3,
+    "AA_bodySentences": 4,
+    "correctLettersChecked": 100,
+    "rejectedWrongLetterOrders": 100,
+    "acceptedOrdersChecked": 101,
+    "letterCreditCannotDuplicate": true,
+    "resetKeepsEarnedCredit": true,
+    "levelAUnchanged": true,
+    "savedAAOrdersMigrated": 50,
+    "savedAACreditPreserved": true,
+    "partialOrderAndHistoryPreserved": true
+  },
+  "browser": {
+    "landing": [
+      {
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1366
+      },
+      {
+        "documentOverflow": false,
+        "height": 720,
+        "outside": [],
+        "overflow": [],
+        "width": 1280
+      },
+      {
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1024
+      },
+      {
+        "documentOverflow": false,
+        "height": 1024,
+        "outside": [],
+        "overflow": [],
+        "width": 768
+      },
+      {
+        "documentOverflow": false,
+        "height": 844,
+        "outside": [],
+        "overflow": [],
+        "width": 390
+      },
+      {
+        "documentOverflow": false,
+        "height": 390,
+        "outside": [],
+        "overflow": [],
+        "width": 844
+      }
+    ],
+    "activityLinks": [
+      {
+        "name": "Start Sentence Adventures 1",
+        "brokenImages": [],
+        "pictureNames": [
+          "Choose Watering can",
+          "Choose Sand bucket",
+          "Choose Kite",
+          "Choose Bird feeder",
+          "Choose Bicycle",
+          "Choose Helmet",
+          "Choose Toy train",
+          "Choose Puzzle piece",
+          "Choose Carrot",
+          "Choose Envelope",
+          "Choose Paint palette",
+          "Choose Lunchbox",
+          "Choose Plant pot",
+          "Choose Tent",
+          "Choose Telescope",
+          "Choose Paper plane",
+          "Choose Cupcake",
+          "Choose Seashell",
+          "Choose Robot",
+          "Choose Violin"
+        ],
+        "title": "Sentence Adventures",
+        "voiceDisabled": true
+      },
+      {
+        "name": "Start Sentence Adventures 2",
+        "brokenImages": [],
+        "pictureNames": [
+          "Choose Watering can",
+          "Choose Sand bucket",
+          "Choose Kite",
+          "Choose Bird feeder",
+          "Choose Bicycle",
+          "Choose Helmet",
+          "Choose Toy train",
+          "Choose Puzzle piece",
+          "Choose Carrot",
+          "Choose Envelope",
+          "Choose Paint palette",
+          "Choose Lunchbox",
+          "Choose Plant pot",
+          "Choose Tent",
+          "Choose Telescope",
+          "Choose Paper plane",
+          "Choose Cupcake",
+          "Choose Seashell",
+          "Choose Robot",
+          "Choose Violin"
+        ],
+        "title": "Sentences Adventures 2",
+        "voiceDisabled": true
+      },
+      {
+        "name": "Start Before and After",
+        "brokenImages": [],
+        "pictureNames": [
+          "Choose Watering can",
+          "Choose Sand bucket",
+          "Choose Kite",
+          "Choose Bird feeder",
+          "Choose Bicycle",
+          "Choose Helmet",
+          "Choose Toy train",
+          "Choose Puzzle piece",
+          "Choose Carrot",
+          "Choose Envelope",
+          "Choose Paint palette",
+          "Choose Lunchbox",
+          "Choose Plant pot",
+          "Choose Tent",
+          "Choose Telescope",
+          "Choose Paper plane",
+          "Choose Cupcake",
+          "Choose Seashell",
+          "Choose Robot",
+          "Choose Violin"
+        ],
+        "title": "Before & After Adventures",
+        "voiceDisabled": true
+      },
+      {
+        "name": "Start Letter Writing",
+        "brokenImages": [],
+        "pictureNames": [
+          "Choose Watering can",
+          "Choose Sand bucket",
+          "Choose Kite",
+          "Choose Bird feeder",
+          "Choose Bicycle",
+          "Choose Helmet",
+          "Choose Toy train",
+          "Choose Puzzle piece",
+          "Choose Carrot",
+          "Choose Envelope",
+          "Choose Paint palette",
+          "Choose Lunchbox",
+          "Choose Plant pot",
+          "Choose Tent",
+          "Choose Telescope",
+          "Choose Paper plane",
+          "Choose Cupcake",
+          "Choose Seashell",
+          "Choose Robot",
+          "Choose Violin"
+        ],
+        "title": "Letter Writing",
+        "voiceDisabled": true
+      },
+      {
+        "name": "Start Pronoun Detective",
+        "brokenImages": [],
+        "pictureNames": [
+          "Choose Watering can",
+          "Choose Sand bucket",
+          "Choose Kite",
+          "Choose Bird feeder",
+          "Choose Bicycle",
+          "Choose Helmet",
+          "Choose Toy train",
+          "Choose Puzzle piece",
+          "Choose Carrot",
+          "Choose Envelope",
+          "Choose Paint palette",
+          "Choose Lunchbox",
+          "Choose Plant pot",
+          "Choose Tent",
+          "Choose Telescope",
+          "Choose Paper plane",
+          "Choose Cupcake",
+          "Choose Seashell",
+          "Choose Robot",
+          "Choose Violin"
+        ],
+        "title": "Pronoun Detective Â· Language Adventures",
+        "voiceDisabled": true
+      },
+      {
+        "name": "Start Homophone Harbour",
+        "brokenImages": [],
+        "pictureNames": [
+          "Choose Watering can",
+          "Choose Sand bucket",
+          "Choose Kite",
+          "Choose Bird feeder",
+          "Choose Bicycle",
+          "Choose Helmet",
+          "Choose Toy train",
+          "Choose Puzzle piece",
+          "Choose Carrot",
+          "Choose Envelope",
+          "Choose Paint palette",
+          "Choose Lunchbox",
+          "Choose Plant pot",
+          "Choose Tent",
+          "Choose Telescope",
+          "Choose Paper plane",
+          "Choose Cupcake",
+          "Choose Seashell",
+          "Choose Robot",
+          "Choose Violin"
+        ],
+        "title": "Homophone Harbour Â· Language Adventures",
+        "voiceDisabled": true
+      },
+      {
+        "name": "Start Paragraph Builder",
+        "brokenImages": [],
+        "pictureNames": [
+          "Choose Watering can",
+          "Choose Sand bucket",
+          "Choose Kite",
+          "Choose Bird feeder",
+          "Choose Bicycle",
+          "Choose Helmet",
+          "Choose Toy train",
+          "Choose Puzzle piece",
+          "Choose Carrot",
+          "Choose Envelope",
+          "Choose Paint palette",
+          "Choose Lunchbox",
+          "Choose Plant pot",
+          "Choose Tent",
+          "Choose Telescope",
+          "Choose Paper plane",
+          "Choose Cupcake",
+          "Choose Seashell",
+          "Choose Robot",
+          "Choose Violin"
+        ],
+        "title": "Paragraph Builder Â· Language Adventures",
+        "voiceDisabled": true
+      },
+      {
+        "name": "Start Meaning Master",
+        "brokenImages": [],
+        "pictureNames": [
+          "Choose Watering can",
+          "Choose Sand bucket",
+          "Choose Kite",
+          "Choose Bird feeder",
+          "Choose Bicycle",
+          "Choose Helmet",
+          "Choose Toy train",
+          "Choose Puzzle piece",
+          "Choose Carrot",
+          "Choose Envelope",
+          "Choose Paint palette",
+          "Choose Lunchbox",
+          "Choose Plant pot",
+          "Choose Tent",
+          "Choose Telescope",
+          "Choose Paper plane",
+          "Choose Cupcake",
+          "Choose Seashell",
+          "Choose Robot",
+          "Choose Violin"
+        ],
+        "title": "Meaning Master Â· Language Adventures",
+        "voiceDisabled": true
+      }
+    ],
+    "gallery": [
+      {
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1366
+      },
+      {
+        "documentOverflow": false,
+        "height": 720,
+        "outside": [],
+        "overflow": [],
+        "width": 1280
+      },
+      {
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1024
+      },
+      {
+        "documentOverflow": false,
+        "height": 1024,
+        "outside": [],
+        "overflow": [],
+        "width": 768
+      },
+      {
+        "documentOverflow": false,
+        "height": 844,
+        "outside": [],
+        "overflow": [],
+        "width": 390
+      },
+      {
+        "documentOverflow": false,
+        "height": 390,
+        "outside": [],
+        "overflow": [],
+        "width": 844
+      }
+    ],
+    "letterAA": [
+      {
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "rows": 4,
+        "width": 1366
+      },
+      {
+        "documentOverflow": false,
+        "height": 720,
+        "outside": [],
+        "overflow": [],
+        "rows": 4,
+        "width": 1280
+      },
+      {
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "rows": 4,
+        "width": 1024
+      },
+      {
+        "documentOverflow": false,
+        "height": 1024,
+        "outside": [],
+        "overflow": [],
+        "rows": 4,
+        "width": 768
+      },
+      {
+        "documentOverflow": false,
+        "height": 844,
+        "outside": [],
+        "overflow": [],
+        "rows": 4,
+        "width": 390
+      },
+      {
+        "documentOverflow": false,
+        "height": 390,
+        "outside": [],
+        "overflow": [],
+        "rows": 4,
+        "width": 844
+      }
+    ],
+    "letterSorting": {
+      "A_threeSentences": true,
+      "AA_fiveSentences": true,
+      "arrowMoves": true,
+      "dragReorders": true,
+      "wrongOrderDoesNotUnlock": true,
+      "correctOrderUnlocks": true,
+      "savedProgressRestores": true
+    },
+    "sharedTeacherCode259": true,
+    "letterPictureFilter50": true,
+    "sentencePicturePicker": [
+      {
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1366
+      },
+      {
+        "documentOverflow": false,
+        "height": 720,
+        "outside": [],
+        "overflow": [],
+        "width": 1280
+      },
+      {
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1024
+      },
+      {
+        "documentOverflow": false,
+        "height": 1024,
+        "outside": [],
+        "overflow": [],
+        "width": 768
+      },
+      {
+        "documentOverflow": false,
+        "height": 844,
+        "outside": [],
+        "overflow": [],
+        "width": 390
+      },
+      {
+        "documentOverflow": false,
+        "height": 390,
+        "outside": [],
+        "overflow": [],
+        "width": 844
+      }
+    ],
+    "letterPicturePicker": [
+      {
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1366
+      },
+      {
+        "documentOverflow": false,
+        "height": 720,
+        "outside": [],
+        "overflow": [],
+        "width": 1280
+      },
+      {
+        "documentOverflow": false,
+        "height": 768,
+        "outside": [],
+        "overflow": [],
+        "width": 1024
+      },
+      {
+        "documentOverflow": false,
+        "height": 1024,
+        "outside": [],
+        "overflow": [],
+        "width": 768
+      },
+      {
+        "documentOverflow": false,
+        "height": 844,
+        "outside": [],
+        "overflow": [],
+        "width": 390
+      },
+      {
+        "documentOverflow": false,
+        "height": 390,
+        "outside": [],
+        "overflow": [],
+        "width": 844
+      }
+    ],
+    "beforeStartsFirst": {
+      "levels": [
+        "A",
+        "AA"
+      ],
+      "newPictureStartsBefore": true,
+      "savedCorrectBeforeStartsBefore": true,
+      "completedPictureBackStartsBefore": true,
+      "nextMovesToAfterOnSamePicture": true,
+      "savedAnswersPreserved": true
+    },
+    "letterSuccess": {
+      "levels": [
+        {
+          "animation": "letter-check-spin",
+          "feedback": "Letter ready âœ“. You can open the next letter.",
+          "fontSize": "129.6px",
+          "level": "A",
+          "nextEnabled": true,
+          "shown": true
+        },
+        {
+          "animation": "letter-check-spin",
+          "feedback": "Letter ready âœ“. You can open the next letter.",
+          "fontSize": "129.6px",
+          "level": "AA",
+          "nextEnabled": true,
+          "shown": true
+        }
+      ],
+      "wrongOrderShowsNoCelebration": true,
+      "celebrationClearsAutomatically": true,
+      "nextLetterClearsCelebration": true
+    },
+    "letterAARevision": {
+      "bodySentences": 4,
+      "letters": 50,
+      "savedFiveSentenceCorrectAnswerAdapted": true,
+      "savedCreditPreserved": true,
+      "wrongOrderBlocksNext": true,
+      "correctOrderUnlocksNext": true,
+      "spinningCheckRetained": true,
+      "greetingAndSignoffEmojisRetained": true,
+      "levelA": {
+        "level": "A",
+        "rows": 3,
+        "score": "1 / 50 letters"
+      }
+    }
+  },
+  "allLetterTextFit": {
+    "fonts": [
+      "Century Gothic",
+      "Trebuchet MS",
+      "Arial"
+    ],
+    "AA_letters": 50,
+    "viewports": 6,
+    "overflowEstimates": [],
+    "AA_bodySentences": 4,
+    "basis": "Prior five-row estimates used the same font sizes and maximum sentence length (69 characters). Four-row layouts were then checked in the browser at all six sizes."
+  },
+  "assets": {
+    "referencesChecked": 1406,
+    "missingOrWrongCaseReferences": 0,
+    "storyPictures": 284,
+    "sharedObjectIDs": 20,
+    "transparentObjectImagesVerified": true,
+    "allStoryPicturesDecode": true,
+    "externalRuntimeDependencies": 0,
+    "zipFiles": 0
+  },
+  "deployment": {
+    "entry": "index.html",
+    "buildRequired": false,
+    "publishDirectory": ".",
+    "filesBeforeChecks": 502,
+    "sizeMiB": 64.5
+  },
+  "letterAssessment": {
+    "actualXlsxFilesRead": 4,
+    "completedLettersOnly": true,
+    "incompleteAttemptsExcluded": true,
+    "earlierIncorrectAttemptsIncludedAfterCompletion": true,
+    "attemptNumbersAndTotalsMatch": true,
+    "attemptHistorySurvivesReloadAndStartAgain": true,
+    "duplicateCompletionNotCounted": true,
+    "hintsAndListensDoNotIncreaseAttempts": true,
+    "bothLevelsAndAllProfileExportChecked": true,
+    "emptyAndIncompleteOnlyExportsHaveNoAssessmentRows": true,
+    "completedLettersInAllProfileTest": 3,
+    "checksInAllProfileTest": 8
+  }
+}

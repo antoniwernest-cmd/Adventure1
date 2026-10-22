@@ -1,0 +1,167 @@
+{
+  "mode": "Built-in image generation tool",
+  "count": 20,
+  "referenceUse": "Objects from the existing story illustrations",
+  "items": [
+    {
+      "savedId": "pencil",
+      "name": "Watering can",
+      "file": "assets/profile-items/watering-can.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the little pale-blue metal watering can with its curved handle and round sprinkler spout. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\01-seed.webp",
+      "sha256": "84d023876a038209e8f40e7bbed216e66edecbef7161a6618ff177926f8659ab"
+    },
+    {
+      "savedId": "crayon",
+      "name": "Sand bucket",
+      "file": "assets/profile-items/sand-bucket.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the red plastic sandcastle bucket with its curved yellow handle, upright and empty. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\02-sandcastle.webp",
+      "sha256": "acf5cb7f2ed5428ea8a36e9abe5f7a746fdfc5c6509b770e9ba583d05c4c97d7"
+    },
+    {
+      "savedId": "eraser",
+      "name": "Kite",
+      "file": "assets/profile-items/kite.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the colourful red, yellow, blue and green diamond kite with a short ribbon tail. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\04-kite.webp",
+      "sha256": "7bd2f577d401462c39509a183fe13c1e7f0b35c06c5d565214c6b50252f04de7"
+    },
+    {
+      "savedId": "ruler",
+      "name": "Bird feeder",
+      "file": "assets/profile-items/bird-feeder.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the small wooden bird feeder with clear sides and its pitched wooden lid in place. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\05-birdfeeder.webp",
+      "sha256": "e50b192c6bbbd79ca19eb687e080d1a23144a90fd423429adec37f6ab82d92ec"
+    },
+    {
+      "savedId": "book",
+      "name": "Puzzle piece",
+      "file": "assets/profile-items/puzzle-piece.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only one chunky blue-sky jigsaw puzzle piece with a little white cloud. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\10-puzzle.webp",
+      "sha256": "bb1bb1aa6a9dbacbfe406734f83c6b85e40b1da7b42b930417a8a05463f275e2"
+    },
+    {
+      "savedId": "glue",
+      "name": "Bicycle",
+      "file": "assets/profile-items/bicycle.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the small turquoise child bicycle, standing upright with both wheels fully visible. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\08-bicycle.webp",
+      "sha256": "2101c3800b4a6a00c32acbf902d9c625e4d289972abccd4b6c02a9579260dd9b"
+    },
+    {
+      "savedId": "backpack",
+      "name": "Carrot",
+      "file": "assets/profile-items/carrot.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only one bright orange carrot with a small green leafy top. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\11-snowman.webp",
+      "sha256": "0f781af19a992a7a0691bb945e012bfa788820ac32735318b0b29a6ce61c4e46"
+    },
+    {
+      "savedId": "scissors",
+      "name": "Helmet",
+      "file": "assets/profile-items/helmet.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the lilac bicycle helmet with ventilation holes and a simple little flower decoration. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\08-bicycle.webp",
+      "sha256": "cb524481caab0e61fde477a5469bd084f5f88800040396188dbcac53a19f77c5"
+    },
+    {
+      "savedId": "marker",
+      "name": "Envelope",
+      "file": "assets/profile-items/envelope.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the cream paper envelope, closed, with a little floral stamp in the corner and no writing. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\12-mail.webp",
+      "sha256": "66003e633c9d6b35eaa00574e71f413d6b2745c01f1fab35268cb182d7b591f9"
+    },
+    {
+      "savedId": "notebook",
+      "name": "Toy train",
+      "file": "assets/profile-items/toy-train.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the red and gold toy steam locomotive with black wheels, out of its gift box. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\07-present.webp",
+      "sha256": "35f3dfddb1f7582493eb442ba34a4bd99a152f9e2e68cb28d5de6fb6241b5e86"
+    },
+    {
+      "savedId": "calculator",
+      "name": "Plant pot",
+      "file": "assets/profile-items/plant-pot.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the terracotta plant pot with a small green seedling growing in its soil. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\17-plant.webp",
+      "sha256": "d2387facf625048dd6522b642a26f59cb63a5632dbc61af03cc6239ce66eec28"
+    },
+    {
+      "savedId": "paintbrush",
+      "name": "Paint palette",
+      "file": "assets/profile-items/paint-palette.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the oval paint palette with bright blue, yellow, green, red and orange paint daubs. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\14-paint.webp",
+      "sha256": "7b72252513ba9d8aa534daf3607a7359b7e7874468e9c1b6926d48699a2f8205"
+    },
+    {
+      "savedId": "palette",
+      "name": "Lunchbox",
+      "file": "assets/profile-items/lunchbox.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the blue lunchbox with a lime-green clasp, closed with its carrying handle visible. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\16-lunch.webp",
+      "sha256": "67ec818275b5711ea17d218bb8eb18826d2e7ae81045c2df2ffa4b60711ae445"
+    },
+    {
+      "savedId": "sharpener",
+      "name": "Tent",
+      "file": "assets/profile-items/tent.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the small grey and purple camping tent, fully pitched, isolated without a landscape. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\19-camp.webp",
+      "sha256": "e22cda5cd0d9e7ae1ded5ef4eab86718290c9d00eb85c81ec032464d5e56236b"
+    },
+    {
+      "savedId": "tape",
+      "name": "Cupcake",
+      "file": "assets/profile-items/cupcake.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only one cupcake in a golden paper case with a generous pink icing swirl and a few coloured sprinkles. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\40-cupcake.webp",
+      "sha256": "5d68458817f4b04b7def2d15c011f81695a7e5c305df08a3d5b9f35c8c0f2638"
+    },
+    {
+      "savedId": "paper-clip",
+      "name": "Telescope",
+      "file": "assets/profile-items/telescope.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the white telescope with a dark-blue lens tube on its small three-legged tripod. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\37-telescope.webp",
+      "sha256": "e8cd276a0f2884d1a3defa41e11e8229e9238e4b5153d731aac2f2a8f80b1417"
+    },
+    {
+      "savedId": "folder",
+      "name": "Seashell",
+      "file": "assets/profile-items/seashell.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the lovely cream and golden spiral seashell, clean and empty. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\50-shell.webp",
+      "sha256": "fc9d1ca14e5bb656f71e198a3d76390a5992d5ddf216ca681b997e95a8112c01"
+    },
+    {
+      "savedId": "compass",
+      "name": "Robot",
+      "file": "assets/profile-items/robot.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the little yellow-wheeled classroom robot with its small grey chassis and neat battery pack, with no face. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\25-robot.webp",
+      "sha256": "d25c68d66084aa9594436125b6fe6359b6b6260ea133fa13ec29259d976e85b8"
+    },
+    {
+      "savedId": "stapler",
+      "name": "Paper plane",
+      "file": "assets/profile-items/paper-plane.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the bright blue folded paper aeroplane with even wings. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\38-paperplane.webp",
+      "sha256": "03195256b48afd27360e3af2adf3dc197524e1955ec08c261a9208ad8a0f2958"
+    },
+    {
+      "savedId": "highlighter",
+      "name": "Violin",
+      "file": "assets/profile-items/violin.webp",
+      "prompt": "Use case: stylized-concept. Asset type: a child-friendly picture ID icon. The attached story picture is a visual reference for the object design and 3D animation style. Create only the warm brown polished wooden child violin, just the complete instrument with all strings visible. Polished Pixar-like family animation render with rounded appealing forms, detailed materials and soft studio lighting. A single fully visible object, centred in a square composition, clear three-quarter view, filling about 82 percent of the canvas. Genuinely transparent background. No people, hands, faces, scenery, words, numbers, labels, logos, ground plane or icon border. Make its silhouette easy to recognise at small size.",
+      "reference": "outputs\\Before-and-After-Adventures\\assets\\illustrations\\49-violin.webp",
+      "sha256": "153fac8bd1fade7e2ed7d3fb3183ee04bf09d80fd20261558ec4e60505d05f4d"
+    }
+  ]
+}

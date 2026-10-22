@@ -1,0 +1,44 @@
+/* Student reading sizes use the available workspace, including after feedback. */
+.work-grid,body[data-game=paragraph] .work-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.scene-panel{padding:11px;gap:7px}.scene-panel>img{border-radius:9px}.enlarge-picture{font-size:12px;min-height:33px;padding:5px 8px}
+.picture-dialog[open]{width:calc(100vw - 24px);height:calc(100dvh - 24px);max-width:1600px;max-height:none;display:grid;grid-template-rows:auto minmax(0,1fr) auto;gap:12px;padding:15px}
+.picture-dialog header{display:flex;align-items:center;justify-content:space-between;gap:18px}.picture-dialog h2{font-size:23px;margin:0}.picture-dialog>img{width:100%;height:100%;min-height:0;object-fit:contain}.picture-dialog>a{justify-self:center;font-size:15px}.picture-dialog header button{font-size:15px}
+.sentence-slot,.bank-sentence{font-weight:600}
+@media(min-width:1101px) and (max-width:1450px){body[data-game=paragraph] .pool-tabs{display:flex}body[data-game=paragraph] .builder-columns{grid-template-columns:1fr}body[data-game=paragraph] .builder-columns h3{display:none}body[data-game=paragraph] .paragraph-area[data-pool=build] .bank-pool,body[data-game=paragraph] .paragraph-area[data-pool=bank] .paragraph-pool{display:none}.pool-tabs>button{flex:1}}
+@media(max-width:900px){.work-grid,body[data-game=paragraph] .work-grid{grid-template-columns:1fr}}
+.workspace{container-type:size}
+.passage{font-size:clamp(24px,4.8cqh,33px);font-weight:500;line-height:1.4;color:#243f48;padding:18px}
+.answer{font-size:clamp(22px,4.3cqh,29px);min-height:68px;line-height:1.25;color:#344655;padding:13px 16px}
+.choice-letter{font-size:15px;width:31px;height:31px;flex:none}
+.question-prompt{font-size:clamp(19px,3.8cqh,25px);color:#243f48;line-height:1.27}
+.sentence-slot,.bank-sentence{font-size:clamp(21px,3.8cqh,26px);line-height:1.28;font-weight:600;color:#2c4549;min-height:55px;padding:10px}
+.sentence-slot.empty{font-size:clamp(18px,3.6cqh,24px);color:#526c61;min-height:61px}
+.slot-number{font-size:14px;width:24px;height:24px}
+.builder-columns h3{font-size:12px;margin-bottom:11px;letter-spacing:.7px}.builder-columns h3 span{font-size:12px}
+.paragraph-status{font-size:15px;color:#526b5d}
+.paragraph-slots,.sentence-bank{gap:10px}
+.feedback{font-size:clamp(16px,3.3cqh,21px);line-height:1.3}
+.question-actions button,.check-paragraph{font-size:15px;min-height:40px;padding:8px 12px}
+.voice-controls>button,.voice-label select{font-size:15px;min-height:41px}.voice-label>span{font-size:12px}
+.question-navigation button{font-size:16px;min-height:41px}
+.app-heading h1{font-size:clamp(24px,2.5vw,34px)}.topic-meta{font-size:14px}.topic-meta time{font-size:12px}
+.score-group{font-size:13px}.scene-note{font-size:13px}.scene-heading .eyebrow{font-size:11px}
+.levels button{font-size:15px;min-height:39px;width:39px}.profile-button{font-size:13px;min-height:39px}
+.header-actions>.quiet,.header-actions summary{font-size:12px;min-height:39px}
+.view-tools button,.pool-tabs button{font-size:15px;min-height:36px}
+.card-body h2{font-size:clamp(23px,2.2vw,30px)}.card-body>p:not(.eyebrow){font-size:15px}.card-start{font-size:14px}
+.landing-footer{font-size:12px}.landing-footer .text-button{font-size:12px}.landing-header .quiet{font-size:14px}
+@media(max-width:1100px){.workspace{gap:11px}.sentence-slot,.bank-sentence{font-size:22px;padding:11px;min-height:58px}.sentence-slot.empty{font-size:20px}.passage{font-size:28px}.answer{font-size:23px;min-height:63px}.question-prompt{font-size:20px}.feedback{font-size:17px}.app-heading h1{font-size:25px}.header-actions>.quiet,.header-actions summary{font-size:11px}.paragraph-status{font-size:14px}.pool-tabs button{font-size:14px}}
+@media(max-width:700px){.app-heading h1{font-size:23px}.app-heading{min-width:180px}.header-actions{width:100%;justify-content:flex-end}.levels{margin-right:auto}.levels button{font-size:13px;min-height:31px;width:34px}.profile-button{min-height:31px}.header-actions>.quiet,.header-actions summary{min-height:31px;font-size:11px}.topic-meta{font-size:12px}.score-group{font-size:10px}.workspace{gap:10px;padding:13px}.passage{font-size:24px;line-height:1.35;padding:12px}.question-prompt{font-size:18px}.answer{font-size:21px;min-height:58px;padding:11px}.choice-letter{width:26px;height:26px;font-size:12px}.feedback{font-size:15px}.sentence-slot,.bank-sentence{font-size:19px;line-height:1.28;min-height:52px;padding:9px}.sentence-slot.empty{font-size:18px}.paragraph-slots,.sentence-bank{gap:7px}.paragraph-status{font-size:12px}.slot-number{width:21px;height:21px;font-size:12px}.question-actions button,.check-paragraph{min-height:34px;font-size:12px;padding:6px 9px}.voice-controls>button,.voice-label select{font-size:13px;min-height:34px}.question-navigation button{font-size:14px;min-height:34px}.view-tools button,.pool-tabs button{font-size:13px;min-height:31px}.card-body h2{font-size:22px}.card-body>p:not(.eyebrow){font-size:12px}.card-start{font-size:12px}.landing-footer,.landing-footer .text-button{font-size:9px}}
+@media(max-height:720px) and (min-width:901px){.passage{font-size:25px;line-height:1.35;padding:13px}.answer{font-size:22px;min-height:54px;padding:10px 12px}.question-prompt{font-size:19px}.feedback{font-size:15px}.sentence-slot,.bank-sentence{font-size:21px;line-height:1.28;min-height:53px;padding:9px}.sentence-slot.empty{font-size:19px;min-height:53px}.paragraph-slots,.sentence-bank{gap:7px}.paragraph-status{font-size:12px}.question-actions button,.check-paragraph{min-height:33px;font-size:12px;padding:6px 9px}.app-heading h1{font-size:25px}.voice-controls>button,.voice-label select,.question-navigation button{font-size:13px;min-height:34px}.levels button{min-height:33px}.profile-button,.header-actions>.quiet,.header-actions summary{min-height:33px}.builder-columns h3{font-size:11px;margin-bottom:8px}.builder-columns h3 span{font-size:11px}}
+@media(max-height:700px) and (max-width:700px){.app-heading h1{font-size:20px}.header-actions{gap:4px}.workspace{gap:7px;padding:10px}.passage{font-size:21px;padding:10px}.question-prompt{font-size:16px}.answer{font-size:18px;min-height:46px;padding:8px}.feedback{font-size:13px}.sentence-slot,.bank-sentence{font-size:17px;line-height:1.22;min-height:43px;padding:7px}.sentence-slot.empty{font-size:16px;min-height:43px}.paragraph-slots,.sentence-bank{gap:5px}.paragraph-status{font-size:10px}.question-actions button,.check-paragraph{font-size:11px;min-height:29px;padding:5px 7px}.pool-tabs button{font-size:12px;min-height:28px}.landing-header .quiet{font-size:11px}.card-body h2{font-size:19px}.card-body>p:not(.eyebrow){font-size:10px}.card-start{font-size:10px}}
+@media(max-height:480px) and (min-width:701px){.app-heading h1{font-size:20px;max-width:none}.header-actions{width:auto}.app-heading{min-width:0}.levels button{min-height:27px;width:28px;font-size:12px}.profile-button,.header-actions>.quiet,.header-actions summary{min-height:27px;font-size:9px}.topic-meta{font-size:10px}.score-group{font-size:9px}.workspace{gap:6px;padding:9px 11px}.passage{font-size:19px;line-height:1.25;padding:9px}.question-prompt{font-size:15px}.answer{font-size:16px;min-height:34px;padding:5px 8px}.choices{gap:5px}.choice-letter{width:21px;height:21px;font-size:10px}.feedback{font-size:12px}.sentence-slot,.bank-sentence{font-size:14px;line-height:1.23;min-height:37px;padding:6px}.sentence-slot.empty{font-size:13px;min-height:37px}.paragraph-slots,.sentence-bank{gap:5px}.paragraph-status{font-size:10px}.slot-number{width:17px;height:17px;font-size:10px}.question-actions button,.check-paragraph{font-size:10px;min-height:26px;padding:4px 7px}.view-tools button,.pool-tabs button{font-size:11px;min-height:26px}.voice-controls>button,.voice-label select,.question-navigation button{font-size:11px;min-height:29px}.scene-note{font-size:10px}.card-body h2{font-size:19px}.card-body>p:not(.eyebrow){font-size:10px}.card-start{font-size:10px}}
+
+.move-buttons button{width:30px;min-height:25px;font-size:16px}.enlarge-picture{font-size:13px}
+.sentence-slot:disabled{opacity:1;background:#eaf2e5}.slot-row:has(.sentence-slot:disabled) .move-buttons{display:none}
+@media(max-width:1100px){.view-tools{display:flex}.work-grid,body[data-game=paragraph] .work-grid{grid-template-columns:1fr}.scene-panel{display:none}.activity-frame[data-view=picture] .scene-panel{display:grid}.activity-frame[data-view=picture] .workspace{display:none}}
+@media(max-width:1100px){.sentence-slot,.bank-sentence{padding:10px}}
+@media(max-width:700px){.sentence-slot,.bank-sentence{padding:8px}}
+@media(max-height:480px) and (min-width:701px){.sentence-slot,.bank-sentence{padding:5px;min-height:35px}}
+@media(max-height:480px){.move-buttons button{width:22px;min-height:17px;font-size:12px}.enlarge-picture{font-size:10px;min-height:25px}}
+@media(max-height:480px) and (min-width:701px){.passage{padding:7px 9px}.choice-area{gap:6px}.answer{min-height:32px;padding:4px 8px}}
